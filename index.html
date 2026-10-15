@@ -6,22 +6,39 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
     <meta name="description" content="Английский для 1 класса на русском и казахском: «Сад слов» — каждое слово несколькими способами и повторение по дням. Без рекламы, готовое английское аудио первого класса без установки голоса телефона." />
     <meta name="color-scheme" content="light dark" />
-    <meta name="theme-color" content="#f3f1ec" media="(prefers-color-scheme: light)" />
-    <meta name="theme-color" content="#0b0e11" media="(prefers-color-scheme: dark)" />
+    <meta name="theme-color" content="#0b0e11" />
     <link
       rel="icon"
       href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' rx='10' fill='%23171a26'/%3E%3Cpath d='M20 33V19' stroke='%23fcd535' stroke-width='3' stroke-linecap='round'/%3E%3Cpath d='M20 22C13 22 10 17 10 12c6 0 10 3 10 10zM20 19c0-6 4-10 11-10 0 6-4 10-11 10z' fill='%23fcd535'/%3E%3C/svg%3E"
     />
+    <script>
+      // the saved look before the first paint (no light flash in «Графит»); src/state/store.tsx
+      // keeps it from then on. Not chosen yet = «Графит»; 'system' = no attribute (the device decides).
+      (function () {
+        var root = document.documentElement;
+        if (root.hasAttribute('data-theme')) return;
+        var t = null;
+        try {
+          t = (JSON.parse(localStorage.getItem('english-many-ways:v1') || 'null') || {}).theme;
+        } catch (e) {}
+        var look = t === 'light' || t === 'dark' || t === 'graphite' ? t : t === 'system' ? null : 'graphite';
+        if (look) {
+          root.setAttribute('data-theme', look);
+          root.setAttribute('data-theme-boot', '');
+        }
+      })();
+    </script>
     <style>
       /* first paint before the bundle loads: the page background already follows the theme */
-      :root { --paper: #0b0e11; --ink: #eaecef; color-scheme: dark; }
-      @media (prefers-color-scheme: dark) { :root:not([data-theme='light']) { --paper: #0b0e11; --ink: #f2f0eb; color-scheme: dark; } }
-      :root[data-theme='dark'] { --paper: #0b0e11; --ink: #f2f0eb; color-scheme: dark; }
+      :root { --paper: #f3f1ec; --ink: #171a26; }
+      @media (prefers-color-scheme: dark) { :root:not([data-theme='light']) { --paper: #13151c; --ink: #f2f0eb; color-scheme: dark; } }
+      :root[data-theme='dark'] { --paper: #13151c; --ink: #f2f0eb; color-scheme: dark; }
+      :root[data-theme='graphite'] { --paper: #0b0e11; --ink: #eaecef; color-scheme: dark; }
       html, body { height: 100%; }
       body { margin: 0; background: var(--paper); color: var(--ink); }
     </style>
-    <script defer src="./assets/index-Bu6CDbe3.js"></script>
-    <link rel="stylesheet" href="./assets/style-CU7wEJSl.css">
+    <script defer src="./assets/index-dftMqg-j.js"></script>
+    <link rel="stylesheet" href="./assets/style-DElAKyXm.css">
   </head>
   <body>
     <div id="root"></div>

@@ -4,7 +4,7 @@ A Russian/Kazakh learning app: Word Garden for grades 1-4 and study mode for gra
 
 **Open:** https://niphridium.github.io/english/
 
-Choose the learner's grade in their profile. The unified release includes vocabulary, spaced review, grammar practice, reading, writing drafts and original exam-format exercises. It preserves the dark interface with yellow accents and optional interaction sounds.
+Choose the learner's grade in their profile. The unified release includes vocabulary, spaced review, grammar practice, reading, writing drafts and original exam-format exercises. The default look is «Графит» (graphite with a yellow accent, IBM Plex fonts, mono numbers); light, dark and system themes stay selectable in Parents → Settings. Short interaction sounds (tap, right, almost, sprout, next, garden grew) are synthesised in the browser, stay quieter than the words and never play over them; silent before the first tap and in the quiet evening; on/off in the header and in Settings, with a volume.
 
 - Grade 1: 150 words, a word garden, four games, family checks and 516 ready audio files covering words, examples, phrases, chants and 44 phonemes.
 - Grades 2-4: more word packs, letters, reading and spelling practice.
@@ -15,6 +15,6 @@ The first grade uses ready synthetic British audio (Kokoro bf_emma); its MP3 fil
 
 Teaching texts were prepared with AI and still need English-teacher and native Kazakh proofreading. This is supplementary learning material: passing software tests does not establish a learner's CEFR level, full curriculum coverage or an exam score. Exam exercises are original practice, not official papers. Phoneme pronunciation still needs teacher review.
 
-Images: Fluent Emoji (MIT, Microsoft) and original drawings. Fonts: Rubik and Nunito (OFL). Full acknowledgements are inside the app.
+Images: Fluent Emoji (MIT, Microsoft) and original drawings. Fonts: Rubik, Nunito, IBM Plex Sans and IBM Plex Mono (OFL). Full acknowledgements are inside the app.
 
 This repository contains the static website build for GitHub Pages. Previous hashed assets are retained so already-open tabs can continue working.
