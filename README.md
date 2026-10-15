@@ -1,25 +1,20 @@
-# Английский разными способами — 1 класс
+# English Many Ways - Grades 1-11
 
-**Ағылшын тілі әр түрлі тәсілмен.** «Сад слов» для первоклассников (6–7 лет): каждое английское слово — растение, которое растёт, когда ребёнок его вспоминает. По-русски и по-казахски.
+A Russian/Kazakh learning app: Word Garden for grades 1-4 and study mode for grades 5-11.
 
-**Открыть:** https://niphridium.github.io/english/
+**Open:** https://niphridium.github.io/english/
 
-- Занятие дня (6–12 минут): полить сад — повторить слова, посадить 3 новых, подвигаться.
-- Урок слова: услышь → найди картинку → покажи жестом → скажи вместе с питомцем → повтори позже.
-- Повторение через 1, 2, 4, 7, 14 и 30 дней; ошибка не отбрасывает назад.
-- 4 игры: «Найди картинку», «Что пропало?», «Саймон говорит», «Научи питомца».
-- Для родителей: прогресс, замер (день 0 / 7 / 14 / 30), идеи без экрана, настройки.
+Choose the learner's grade in their profile. The unified release includes vocabulary, spaced review, grammar practice, reading, writing drafts and original exam-format exercises. It preserves the dark interface with yellow accents and optional interaction sounds.
 
-Нужен английский голос на устройстве (озвучка — голос телефона или компьютера). Прогресс хранится только в браузере этого устройства и никуда не отправляется; на другое устройство — файлом.
+- Grade 1: 150 words, a word garden, four games, family checks and 516 ready audio files covering words, examples, phrases, chants and 44 phonemes.
+- Grades 2-4: more word packs, letters, reading and spelling practice.
+- Grades 5-11: vocabulary, grammar, texts, writing/speaking prompts and original exam-format practice.
+- Progress, writing drafts and unfinished exam sessions are stored on this device. Progress can be exported/imported as a file; there is no account synchronisation.
 
-Тексты подготовлены ИИ и ждут проверки учителем английского и носителем казахского языка.
+The first grade uses ready synthetic British audio (Kokoro bf_emma); its MP3 files need to be downloaded. Other grades use an English voice provided by the device. Audio origins and hashes: `audio/g1/README.txt` and `audio/g1/manifest.json`.
 
-Картинки — Fluent Emoji (MIT, © Microsoft); шрифты Rubik и Nunito (OFL).
+Teaching texts were prepared with AI and still need English-teacher and native Kazakh proofreading. This is supplementary learning material: passing software tests does not establish a learner's CEFR level, full curriculum coverage or an exam score. Exam exercises are original practice, not official papers. Phoneme pronunciation still needs teacher review.
 
-В репозитории лежит готовая сборка веб-приложения (статические файлы для GitHub Pages).
+Images: Fluent Emoji (MIT, Microsoft) and original drawings. Fonts: Rubik and Nunito (OFL). Full acknowledgements are inside the app.
 
-
-Обновление 15.10.2026: графитовый интерфейс с жёлтым акцентом; звуки нажатий, верного ответа и повторной попытки. Звуки выключаются кнопкой динамика рядом с языком; настройка сохраняется на устройстве. Озвучка английских слов управляется отдельно.
-
-
-Аудио первого класса (15.10.2026): 516 готовых MP3 (~5,5 МБ), все 150 слов, фразы и примеры, команды, строки 13 речёвок и 44 звука с примерами. Синтетический британский голос Kokoro bf_emma. Голос телефона для английского не требуется; для загрузки файлов нужен интернет. «Родителям → Настройки» — проверка аудио, «Родителям → Без экрана» — звуки. Произношение фонетических образцов ещё должен проверить преподаватель. Происхождение и хеши — audio/g1/README.txt и manifest.json.
+This repository contains the static website build for GitHub Pages. Previous hashed assets are retained so already-open tabs can continue working.
