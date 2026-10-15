@@ -4,7 +4,7 @@ A Russian/Kazakh learning app: Word Garden for grades 1-4 and study mode for gra
 
 **Open:** https://niphridium.github.io/english/
 
-Choose the learner's grade in their profile. The unified release includes vocabulary, spaced review, grammar practice, reading, writing drafts and original exam-format exercises. The default look is «Графит» (graphite with a yellow accent, IBM Plex fonts, mono numbers); light, dark and system themes stay selectable in Parents → Settings. Short interaction sounds (tap, right, almost, sprout, next, garden grew) are synthesised in the browser, stay quieter than the words and never play over them; silent before the first tap and in the quiet evening; on/off in the header and in Settings, with a volume.
+Choose the learner's grade in their profile. The unified release includes vocabulary, spaced review, grammar practice, reading, writing drafts and original exam-format exercises. The default look is «Графит» — graphite glass with a yellow accent: translucent panels with a light edge over soft colour glows, a glossy main button, glass switches, IBM Plex fonts and mono numbers; light, dark and system themes stay selectable in Parents → Settings. Short interaction sounds (tap, right, almost, sprout, next, garden grew) are synthesised in the browser, stay quieter than the words and never play over them; silent before the first tap and in the quiet evening; on/off in the header and in Settings, with a volume.
 
 - Grade 1: 150 words, a word garden, four games, family checks and 516 ready audio files covering words, examples, phrases, chants and 44 phonemes.
 - Grades 2-4: more word packs, letters, reading and spelling practice.
