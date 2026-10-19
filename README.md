@@ -8,7 +8,7 @@ Choose the learner's grade in their profile. The unified release includes vocabu
 
 - Grade 1: 150 words, a word garden, four games, family checks and 516 ready audio files covering words, examples, phrases, chants and 44 phonemes.
 - Grades 2-4: more word packs, letters, reading and spelling practice.
-- Grades 5-11: vocabulary, grammar, texts, writing/speaking prompts and original exam-format practice.
+- Grades 5-11: vocabulary, grammar, texts, writing/speaking prompts and original exam-format practice (NIS, A2 Key, B1 Preliminary, ЕНТ, B2 First). Optional memes and slang of the day (grades 5-11 only; vetted, own stickers, never in exams or checks), switchable in Parents → Settings.
 - Progress, writing drafts and unfinished exam sessions are stored on this device. Progress can be exported/imported as a file; there is no account synchronisation.
 
 The first grade uses ready synthetic British audio (Kokoro bf_emma); its MP3 files need to be downloaded. Other grades use an English voice provided by the device. Audio origins and hashes: `audio/g1/README.txt` and `audio/g1/manifest.json`.
