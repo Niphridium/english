@@ -1,0 +1,3105 @@
+{
+ "about": "Slow takes of the ready English recordings: the same text and voice, spoken slower by the model itself (no time-stretching in the browser).",
+ "voice": "Kokoro-82M v1.0 / bf_emma",
+ "lang": "en-gb",
+ "speed": 0.78,
+ "generated": "2026-10-26",
+ "clips": [
+  {
+   "text": "monkey",
+   "file": "000c285457fc971f.mp3",
+   "seconds": 0.973,
+   "sha256": "71156125952890f07d40d220ead088388b21b37aa9d92e25dd7ba9e59a466652"
+  },
+  {
+   "text": "balloon",
+   "file": "00477ad8a4431d45.mp3",
+   "seconds": 1.012,
+   "sha256": "df01867d6af6f3153985bdcd9233ae3fc5420ed0c04c7601629ce87c7257f333"
+  },
+  {
+   "text": "Find something red!",
+   "file": "00a766af0b91bde8.mp3",
+   "seconds": 2.04,
+   "sha256": "dffc126cf143e68d8e7eeeea1b461e86c5075ae84b69eb57ce41f3acede5fadb"
+  },
+  {
+   "text": "It's a bird. It can fly.",
+   "file": "00b214c994f8eed5.mp3",
+   "seconds": 2.381,
+   "sha256": "4676e701d7a0cd32ff68cbb77c89bbe3bfc1ebb55b02a5e674e43522ebc88046"
+  },
+  {
+   "text": "It's a bag. My school bag!",
+   "file": "00b9612cb90d9796.mp3",
+   "seconds": 2.467,
+   "sha256": "a16e8b8c894670aead1739aa9ac9ffc60d05534c91ffaf8cbf5bc358415f5544"
+  },
+  {
+   "text": "white",
+   "file": "018fa96a44715c90.mp3",
+   "seconds": 0.821,
+   "sha256": "678b1604fd2810e84eac8f672ac2c64ac6e991416174d41b7508289aee79bddd"
+  },
+  {
+   "text": "shoes",
+   "file": "01ea5ddd3be5477a.mp3",
+   "seconds": 0.867,
+   "sha256": "8b0740126ae8ecd623ef99212953fba7d9f43a2dc13dd5cab616d441e4c8cb1f"
+  },
+  {
+   "text": "face",
+   "file": "0282d9b79f42c74c.mp3",
+   "seconds": 0.844,
+   "sha256": "508c105bfefc6de06df23f75e4bb9eb54545bae75f84d0ba4c4b9601915204a4"
+  },
+  {
+   "text": "Water, please!",
+   "file": "02dd3967dc0a1e86.mp3",
+   "seconds": 1.741,
+   "sha256": "d983954e4feeadf3d3020fd125b480b7acc2d721047ccc0558b0f0499d031d7e"
+  },
+  {
+   "text": "This is my head, this is my nose,",
+   "file": "045f0d843b22f41a.mp3",
+   "seconds": 2.915,
+   "sha256": "189796acebc2d462e2dbe016443bf7090ee7c431813bf7dcaea78444242ebe79"
+  },
+  {
+   "text": "four",
+   "file": "04efaf080f5a3e74.mp3",
+   "seconds": 0.803,
+   "sha256": "0014d934b96a23d0ccbed2bfbc7d14b72c0082104bc7fd42150bb3111f98cbdc"
+  },
+  {
+   "text": "rubber",
+   "file": "058ce9bd95f5595d.mp3",
+   "seconds": 0.845,
+   "sha256": "784ae14c2cc923cfbc3feb144d354c23fb57cbcb12f393149a20de0bc5c2bb5a"
+  },
+  {
+   "text": "Who's this? — It's my dad.",
+   "file": "05e6202dca72ee7c.mp3",
+   "seconds": 2.317,
+   "sha256": "e43bb63d17935098ad08549e7029459d7e94672aed4f2e71679c6de319887178"
+  },
+  {
+   "text": "sky",
+   "file": "05f514fae7ca5710.mp3",
+   "seconds": 0.883,
+   "sha256": "ed44bee94746d2e572c198408d8f7fd75da5da51049617d3dc071e435f00eb61"
+  },
+  {
+   "text": "This is my mum.",
+   "file": "05fa35233c6999e1.mp3",
+   "seconds": 1.827,
+   "sha256": "a1c1c19b0512b069908d099e6280169fe56737dd7f08ae23a283cfd728ab2776"
+  },
+  {
+   "text": "Wave, wave, wave — hello, friend!",
+   "file": "069491ebfb6d8800.mp3",
+   "seconds": 2.847,
+   "sha256": "c44babe05eda9af0374395cfe5dbe5012d15c3f3a563d4016ba810326cd57f57"
+  },
+  {
+   "text": "It's my hair.",
+   "file": "0722e68f2c72e82e.mp3",
+   "seconds": 1.656,
+   "sha256": "a0c6ce5195fc3e4d8e21529396f8fb182fd03721f9e6d52ccc8b619618d4619e"
+  },
+  {
+   "text": "Touch your ears!",
+   "file": "07b412e83ad0bd55.mp3",
+   "seconds": 1.78,
+   "sha256": "670d2e1939e49b0caf8ec830b649e729469ffdefc256cb29cef3ef1f59f413a2"
+  },
+  {
+   "text": "It's a crayon.",
+   "file": "09445b5deb406150.mp3",
+   "seconds": 1.694,
+   "sha256": "d70693fc81d7ec4aee6c3c6b26aa8144c77d6af791b074af632fe1bb5bc369d2"
+  },
+  {
+   "text": "Eight balls!",
+   "file": "0a1e7ce144fdff82.mp3",
+   "seconds": 1.565,
+   "sha256": "5afc68c08c01052946715ca471a3d91c617aefa85141ba3551ea1bf89c3d508a"
+  },
+  {
+   "text": "Ten balls!",
+   "file": "0a56c2de02cf0587.mp3",
+   "seconds": 1.485,
+   "sha256": "fd85b7453da8296c7c312d0bf8eb47390e21dbf4cf7956d6b948bb0b0adc29e6"
+  },
+  {
+   "text": "sleep",
+   "file": "0afa5bb5d5f17879.mp3",
+   "seconds": 0.883,
+   "sha256": "af0e86dd2235b858439045614badaa486952903de7cacac6baf672ff17808c96"
+  },
+  {
+   "text": "brother",
+   "file": "0b4bd77cec705cf5.mp3",
+   "seconds": 0.862,
+   "sha256": "e2535d7e775151b1610be6f6d4942279863a6132bd251f5979a461d7e1931ae7"
+  },
+  {
+   "text": "It's white.",
+   "file": "0bd8050f316e24d0.mp3",
+   "seconds": 1.336,
+   "sha256": "d3cceb4be5b7e410f769bac1e1b3b7099cc21583addc0663d51472123307ca23"
+  },
+  {
+   "text": "Run on the spot!",
+   "file": "0c7dffa11520beca.mp3",
+   "seconds": 1.848,
+   "sha256": "ec56207bfee885fcc36a2b64ba66e08e600fe079a206cba5572d438d1d32adc9"
+  },
+  {
+   "text": "table",
+   "file": "0d4fc4a78d3706ed.mp3",
+   "seconds": 0.909,
+   "sha256": "cd088a8ed088539ec31b955853afacb45a5d52d5dd02a5db1bb41ac90968e565"
+  },
+  {
+   "text": "I'm sad.",
+   "file": "0d9c14b61ee99e26.mp3",
+   "seconds": 1.373,
+   "sha256": "bccb7fb09fc1b6afca41c55810db82cdb7e5207604afbd345f557e5835e1c120"
+  },
+  {
+   "text": "bath",
+   "file": "0de8ab6315488d30.mp3",
+   "seconds": 0.802,
+   "sha256": "583e65c92bad76cb52316eda233f55382d49bc9b43fde99ae4099c6e61ced199"
+  },
+  {
+   "text": "Touch your head!",
+   "file": "0defdf630dc1823b.mp3",
+   "seconds": 1.65,
+   "sha256": "a8dc4b488bac670782d28281e37f203a6f06142ee5797deb11814a1e797a3546"
+  },
+  {
+   "text": "gloves",
+   "file": "0e376c13c26b9a46.mp3",
+   "seconds": 0.908,
+   "sha256": "78c88d6f11958d7405d51fcbb55cd97341750ab1f9817b2a6993cd3117d762e7"
+  },
+  {
+   "text": "It's a hand. Clap your hands!",
+   "file": "0eaeb29c309e5b76.mp3",
+   "seconds": 2.509,
+   "sha256": "59878da8b1db81220c899e79e5fa3000ea81df1a3f5d57ce73cf6d4007bac58d"
+  },
+  {
+   "text": "@sound:07",
+   "file": "0eba340b2cc9fbb2.mp3",
+   "seconds": 0.632,
+   "sha256": "e3e127f35f65e54dec137fd20b5738ee2033b4acf84e855eb1b2ca33785aae68"
+  },
+  {
+   "text": "@sound:25",
+   "file": "0f1560a0221eed40.mp3",
+   "seconds": 0.404,
+   "sha256": "1e6c8c91e80336514d8f49d958deb37aeb63c6c02d4f6935d34732f54697e5f4"
+  },
+  {
+   "text": "water",
+   "file": "0f4168490e38b844.mp3",
+   "seconds": 0.952,
+   "sha256": "643c832863ba0f77631fddce0f964395139c768c8cf3951a4456ab8df03a1e9c"
+  },
+  {
+   "text": "@sound:39",
+   "file": "0f79bc0a0b8316bc.mp3",
+   "seconds": 0.435,
+   "sha256": "187a6911796b6017bd5b9ffb69daf6b12a64c6d9b04bc5eb6b504c9d011e6900"
+  },
+  {
+   "text": "teacher",
+   "file": "1057a9604e04b274.mp3",
+   "seconds": 0.952,
+   "sha256": "11e9b09047f358c8bf5899f7ad17ebb73916b86545f1184b6443c97119c1aaeb"
+  },
+  {
+   "text": "Good morning!",
+   "file": "10ca40a7679f1f3a.mp3",
+   "seconds": 1.569,
+   "sha256": "e129a46fc7ca5c81b65750b5c11270d96106460d0412138b35110513966236d5"
+  },
+  {
+   "text": "Simon says, turn around!",
+   "file": "10e30381687b5e4f.mp3",
+   "seconds": 2.467,
+   "sha256": "a626dbfeb265e433fe0b8c869964d15702b7d6674fbe7bc79b93979219977ed4"
+  },
+  {
+   "text": "I'm six.",
+   "file": "10e3c49d8c94a072.mp3",
+   "seconds": 1.379,
+   "sha256": "7e028ffe01ad4f7b0209d21550ba6c16f4b8ef8a305954517a6cdf4d5a87acb8"
+  },
+  {
+   "text": "train",
+   "file": "116f54c41d0405db.mp3",
+   "seconds": 0.883,
+   "sha256": "e644c67dce667a9ad76dbffaa372d900469479daa571e3abc8fcde8b881b7db7"
+  },
+  {
+   "text": "It's an apple. I like apples!",
+   "file": "121cece8495a4c9c.mp3",
+   "seconds": 2.637,
+   "sha256": "014f44d12036800fc9b6b2d212ab64d2545378bb525a59d342cc2902a81a492e"
+  },
+  {
+   "text": "pencil",
+   "file": "13809668fb436386.mp3",
+   "seconds": 0.99,
+   "sha256": "f2aab5fc0f02a6a5fb895fec4224ef302f0e3c3b3a2a086823a0a9244d1118b3"
+  },
+  {
+   "text": "It's a train. Choo-choo!",
+   "file": "1386b28b725bb21d.mp3",
+   "seconds": 2.232,
+   "sha256": "e3ba4c32cffabeaab5bddecbdd6f146cac05bef20958d2b7b735ab1e2ed3dae8"
+  },
+  {
+   "text": "It's a mouth. Open your mouth!",
+   "file": "13a43556dc11bebe.mp3",
+   "seconds": 2.637,
+   "sha256": "b7fa132d8db52ff1d61b82e65984e31c3a61192170bce6d1c1cef46ed397c439"
+  },
+  {
+   "text": "It's a foot. I've got two feet.",
+   "file": "14daf416a4761268.mp3",
+   "seconds": 2.531,
+   "sha256": "780da4e7d240b4f6b9065701f0233a382c109034a7d9b77fcf3e1a12087f5ec7"
+  },
+  {
+   "text": "Ready? Ready! Off we go!",
+   "file": "151d16014d4dab66.mp3",
+   "seconds": 2.36,
+   "sha256": "5f9bac4fb7ea543a278f4cd572ed49bdd62621d221732699191ce4a8aebf1d24"
+  },
+  {
+   "text": "blue",
+   "file": "16477688c0e00699.mp3",
+   "seconds": 0.779,
+   "sha256": "efb78ffb5cf1ddb31fe0b4b56dca0a9a22434186a7499b7624bfd7fbe00f564d"
+  },
+  {
+   "text": "It's a teddy bear. I love my teddy!",
+   "file": "17395a040d2b764b.mp3",
+   "seconds": 3.103,
+   "sha256": "34ae39075376ad19472d1f5574d44c4e81266b51f6502bf6851d9f4e84ffa408"
+  },
+  {
+   "text": "Sit down!",
+   "file": "178b47bf5ea356d5.mp3",
+   "seconds": 1.439,
+   "sha256": "1509f01f7fe57b3fd0265dfc64d2c60ea2162a5efe7a3fb4f933c371992eebbe"
+  },
+  {
+   "text": "Simon says, touch your head!",
+   "file": "17d1b819800924e3.mp3",
+   "seconds": 2.483,
+   "sha256": "fcd5a7fda6c8dddfcb21de42c77325f4860ea5fc5c5af6ebb584c5955e8a27f8"
+  },
+  {
+   "text": "Simon says, run on the spot!",
+   "file": "1883327583c56236.mp3",
+   "seconds": 2.637,
+   "sha256": "b83ac00cd9239c1e806472b4daaac0d50923f64e88a5f66469d69ddf85313511"
+  },
+  {
+   "text": "robot",
+   "file": "18d63be10ad544a0.mp3",
+   "seconds": 1.016,
+   "sha256": "0b68129a44ad432c1d0ec5a158cfb74251440e909a52db04717cb59aa460c40c"
+  },
+  {
+   "text": "hat",
+   "file": "18e1dd392168f601.mp3",
+   "seconds": 0.82,
+   "sha256": "c52100dcd49464daae990d5a8e7cc3356beb9522db02bf0bc2624b00537e80dc"
+  },
+  {
+   "text": "sister",
+   "file": "1980d3927f07fec9.mp3",
+   "seconds": 0.931,
+   "sha256": "e070025f07dfad62d70957e11e0d188774e0e46155f368203aedc01fbac4e55f"
+  },
+  {
+   "text": "Is it a cat? — Yes!",
+   "file": "19d415cc6a968e03.mp3",
+   "seconds": 2.061,
+   "sha256": "9c92ab1699f157d912973fc5e38f810786bd1518aa773944ec759e7e571c425f"
+  },
+  {
+   "text": "Simon says, dance!",
+   "file": "19f82d5f65fe5b84.mp3",
+   "seconds": 2.102,
+   "sha256": "04f852ed473e74f3c38c3d53c6fff8161d8d62a471977d58ea62460b29fa37bd"
+  },
+  {
+   "text": "Let's dance!",
+   "file": "1aac2e0999df2bd1.mp3",
+   "seconds": 1.507,
+   "sha256": "6f55146e27d7dce8f1b16983e0e7f9e2d2cd2f54ed77377a1906ee3373fcedf2"
+  },
+  {
+   "text": "hand",
+   "file": "1b001706a418bdfc.mp3",
+   "seconds": 0.842,
+   "sha256": "a433f562df4edf524c5097502f4a639abce68cabbf35433e078e5ddf33af4c48"
+  },
+  {
+   "text": "orange",
+   "file": "1b4c9133da73a711.mp3",
+   "seconds": 0.995,
+   "sha256": "25d733047f08ed40a8e4172c2bd66d588628a7d71998b72dd0da213645878849"
+  },
+  {
+   "text": "Tidy up, please!",
+   "file": "1b5e4ea93818c37e.mp3",
+   "seconds": 1.927,
+   "sha256": "d3d6e7e4659ff73079b79eefd27dd52a68fa2ddd2ed90dc6a1651e4de498c7a0"
+  },
+  {
+   "text": "trousers",
+   "file": "1b5f82125c8e908a.mp3",
+   "seconds": 1.123,
+   "sha256": "a66beca879574524968705210b265c6732d73993e20c09bd1ef766218a26cecf"
+  },
+  {
+   "text": "How old are you? I'm six.",
+   "file": "1b6ac7126f3e26fd.mp3",
+   "seconds": 2.36,
+   "sha256": "caed661e56e7cac71ad299f9f683155453037abed100d0b4203feab43cccee17"
+  },
+  {
+   "text": "No, thank you!",
+   "file": "1c324e960f95542e.mp3",
+   "seconds": 1.716,
+   "sha256": "7e4c56428fad339c0aad2f6c0c334fba5943236472093780658319d35d01a95e"
+  },
+  {
+   "text": "Listen! A bird!",
+   "file": "1cbaa0c3581e1221.mp3",
+   "seconds": 1.841,
+   "sha256": "7e0a80aa729d4e72ec431d7331b94315f2cb3e3c0f6ff2e537db44b84c213575"
+  },
+  {
+   "text": "It's a frog. It can jump!",
+   "file": "1cbb3b53cc0c8f91.mp3",
+   "seconds": 2.36,
+   "sha256": "bad9ec1d87ca10bdade08ea6bf6cdf29d6b0f86b601f58a7f9134fa91b0ad8ce"
+  },
+  {
+   "text": "It's pink.",
+   "file": "1d567d0517e8803d.mp3",
+   "seconds": 1.358,
+   "sha256": "c30eccc14d9c6235d5a837b0bcf6b3d6e1a36f05bc903ad31074ed7da4459477"
+  },
+  {
+   "text": "Open your mouth!",
+   "file": "1de874c39254f5d8.mp3",
+   "seconds": 1.861,
+   "sha256": "dbebe3076c6e0a81b105664cb843720109ee5fb209e0bb020985e976fc9127e7"
+  },
+  {
+   "text": "grandpa",
+   "file": "1eb4d6a000efefe9.mp3",
+   "seconds": 1.075,
+   "sha256": "85dcd0bb3372f247b3392c4453a6b6eae21bf2a8e9a10b9ea3ff70a58da3575b"
+  },
+  {
+   "text": "this",
+   "file": "1eb79602411ef02c.mp3",
+   "seconds": 0.821,
+   "sha256": "21db7ad943e22bbd222814d6cb5e5ab5bcd799102d0141783ff5791ed4ab3419"
+  },
+  {
+   "text": "room",
+   "file": "1f1c5b2fad778434.mp3",
+   "seconds": 0.864,
+   "sha256": "3fcd8801b6cbaeae856c2d9a74807fa4edd8b59a7007c938abd4ce884f758ff8"
+  },
+  {
+   "text": "I can run!",
+   "file": "20a44a8b10c44ad9.mp3",
+   "seconds": 1.504,
+   "sha256": "5023cb544653197d36cce3a55172526c2fc4636766c5a155430fe6f62e16dd95"
+  },
+  {
+   "text": "It's a flower. For you, Mum!",
+   "file": "20fbe216e92263ae.mp3",
+   "seconds": 2.232,
+   "sha256": "610b205e43811976ad0a42379bfda61f03a29350e6dc8a5acd2432c9457afea8"
+  },
+  {
+   "text": "It's a rabbit. Hop, hop!",
+   "file": "2124bed32dbfc916.mp3",
+   "seconds": 2.232,
+   "sha256": "a310cd684a339996eff224484d9f2e354172403e76ebc92cb773b44099b88a93"
+  },
+  {
+   "text": "drink",
+   "file": "218ae6b44966c8a9.mp3",
+   "seconds": 0.886,
+   "sha256": "f0070e089d472f3a62effcc2716a79ed277ba811141b73586cdf69472c25cac4"
+  },
+  {
+   "text": "five",
+   "file": "222b0bd51fcef7e6.mp3",
+   "seconds": 0.867,
+   "sha256": "93a0d648bad72a88387e15984a7962e4588d35ce8cdae2233c31462d94d2989b"
+  },
+  {
+   "text": "Open your book!",
+   "file": "22cc56d4b26eeeb1.mp3",
+   "seconds": 1.848,
+   "sha256": "f52b2914d63d31df66cc1cd7273ceffb64a9a6bab7306743d021a81f3ac3ea25"
+  },
+  {
+   "text": "foot",
+   "file": "22e4f6912a6980d6.mp3",
+   "seconds": 0.782,
+   "sha256": "b970761c179a880075cad8c31af49b2536228d1994f75df1269de2380140540a"
+  },
+  {
+   "text": "It's a jacket. Put on your jacket!",
+   "file": "23541b7263226755.mp3",
+   "seconds": 2.872,
+   "sha256": "93f0ddc7f029299d3385562f32c7fad47d30a844c6d47f2df1b3b469ea50d235"
+  },
+  {
+   "text": "Meow, meow — I'm a cat!",
+   "file": "23814b4365fd1b12.mp3",
+   "seconds": 2.253,
+   "sha256": "0eb79ffd50f842948a125df72d9ca181631e17b81cebe64c76a32552809d2542"
+  },
+  {
+   "text": "garden",
+   "file": "23eeb69c681dfdb8.mp3",
+   "seconds": 0.99,
+   "sha256": "882e31942a81b42ea2839f8eb7d2f8ee8cdb56fb770673cd7423e9209592a460"
+  },
+  {
+   "text": "zoo",
+   "file": "24fe93c9e17cb804.mp3",
+   "seconds": 0.713,
+   "sha256": "29cddda9e8e98af98a588fdef72506d1556ecab43779473523db9cf98c2ab352"
+  },
+  {
+   "text": "What colour is it? It's red.",
+   "file": "2528afc5bedb3627.mp3",
+   "seconds": 2.531,
+   "sha256": "048184457054e7b5e59b2ac5d7cdb2daf2e6c567e8e840a8b4209ced08c0b50d"
+  },
+  {
+   "text": "door",
+   "file": "2534e2de1dec24fe.mp3",
+   "seconds": 0.739,
+   "sha256": "94b75a6d9d3aed2c3000e86d90cab5503f848b283ade16cf1f5cad1debd4e8fc"
+  },
+  {
+   "text": "These are my trousers.",
+   "file": "264e60ca289c8085.mp3",
+   "seconds": 2.228,
+   "sha256": "7b27a2e0cb44b7af36aab81ad522c7973f657b95c0165735a281ebe354b067cc"
+  },
+  {
+   "text": "I'm fine, thank you.",
+   "file": "2695f5398e014ea6.mp3",
+   "seconds": 2.061,
+   "sha256": "50b7ec5c07911b10fb5bae1704c8004c636a3e14040c92425a41ab7ca7ebe038"
+  },
+  {
+   "text": "Juice, please!",
+   "file": "2743fb756da65294.mp3",
+   "seconds": 1.72,
+   "sha256": "b5984dfcbc286c517ddad04a8934077c0f1ef69e3b5c775033876657fbbb4dd9"
+  },
+  {
+   "text": "sun",
+   "file": "27756f050e14a1cb.mp3",
+   "seconds": 0.759,
+   "sha256": "fe35b5ff29f1fd5289bc956e2ff05cb4398ab36718e44893891a2e984cf5bf9b"
+  },
+  {
+   "text": "What's your name? My name's Anna",
+   "file": "279990573c1fb5ca.mp3",
+   "seconds": 2.561,
+   "sha256": "2ca0ce1e7e59e26b94a61d1258901c6ff94e36273eac8747d8b91df345a3d629"
+  },
+  {
+   "text": "We're a family!",
+   "file": "27a54526b9486cef.mp3",
+   "seconds": 1.656,
+   "sha256": "db5d0c0bc89d139a0cd4e83ffb6799b2859cac622d5bb29953f895960c455df4"
+  },
+  {
+   "text": "big",
+   "file": "2a21fe6d592a19b7.mp3",
+   "seconds": 0.827,
+   "sha256": "335770fe22d289e95b269f18de27ec8792f34cf7a62486a95f5b4c6e94664452"
+  },
+  {
+   "text": "It's a chair. Sit down, please!",
+   "file": "2a9e67471760d3dc.mp3",
+   "seconds": 2.701,
+   "sha256": "06f3f1fdbffe5280a1b960281cbd60a6efc03c57dfe023206cb23455f31921c7"
+  },
+  {
+   "text": "He's a boy.",
+   "file": "2abea57baaacad62.mp3",
+   "seconds": 1.869,
+   "sha256": "ff4416e9aa014dffd44cee59d78626a2437e4114e8622e40fb6dc892f1a6d410"
+  },
+  {
+   "text": "The sky is blue.",
+   "file": "2aeb97b86aecde5f.mp3",
+   "seconds": 1.862,
+   "sha256": "2d8eade12a47dfdcc5358db06289971d01b6d305e04570cd40dbf8c20e3e643f"
+  },
+  {
+   "text": "My teddy bear is big, my ball is small,",
+   "file": "2afd2c35a71dd41d.mp3",
+   "seconds": 3.149,
+   "sha256": "37628b058b054f299b36fb71d9c02ea1224ad3f8a5e17574f816930579cd52f7"
+  },
+  {
+   "text": "car",
+   "file": "2b2961a431b23c90.mp3",
+   "seconds": 0.735,
+   "sha256": "605f1b54a35ee2a4eb033b39917525c1fd8104c12077a3318cccc74fbc48a95e"
+  },
+  {
+   "text": "Apples, bananas, bread and cheese,",
+   "file": "2b7843b14ed8b142.mp3",
+   "seconds": 2.932,
+   "sha256": "c2afb8ab02db4749c54bc56fbe21e4d93159eaeea27064bdb4efba20730117b7"
+  },
+  {
+   "text": "I've got a friend!",
+   "file": "2be9475a571224db.mp3",
+   "seconds": 1.8,
+   "sha256": "c5917dccda9e2f4c7c26e288a96d3bb66676c44d993934d6543502a750149ace"
+  },
+  {
+   "text": "dance",
+   "file": "2c371c2ada73a02e.mp3",
+   "seconds": 0.867,
+   "sha256": "c2d48d0b3ba54e5fc90b82ba5944b759eec4cd65833fd2c7450a501722fd1e4d"
+  },
+  {
+   "text": "Simon says, clap your hands!",
+   "file": "2cb289e58dec8a51.mp3",
+   "seconds": 2.616,
+   "sha256": "942c0a66d0b6713f2993e3a2a43fc9450a17c121bc70b41e29e981119f912b27"
+  },
+  {
+   "text": "hello",
+   "file": "2cf24dba5fb0a30e.mp3",
+   "seconds": 0.926,
+   "sha256": "fe8f31429ef9a901c51ce1ff470b07c60f2bebab1c7d4aa6935f954810c288f3"
+  },
+  {
+   "text": "@sound:10",
+   "file": "2d1c734317675f04.mp3",
+   "seconds": 0.51,
+   "sha256": "2e959b00a1293a0795a782d5bf2ee5c89724cfcd3d8cd6d72dcfdaef1bfb9a31"
+  },
+  {
+   "text": "duck",
+   "file": "2d2370db2447ff8c.mp3",
+   "seconds": 0.766,
+   "sha256": "71116540f51823812ba5ea07ba3312a1eda11bd04fac363d35cb05bb6a2f167f"
+  },
+  {
+   "text": "It's cold!",
+   "file": "2e0ce44d5f53167d.mp3",
+   "seconds": 1.336,
+   "sha256": "dcc97dd77917ecd4d94da71ba29303bc5f2e6835bb13e28b34d4f5309afdb758"
+  },
+  {
+   "text": "It's a kitchen.",
+   "file": "2e1d3c19ed94a94f.mp3",
+   "seconds": 1.632,
+   "sha256": "779d2c5fe88900b901a9b9ccb81f07ff41ecdc7fa0479f7223343d3fa8f1c374"
+  },
+  {
+   "text": "It's hot!",
+   "file": "2e68e1219ee32a30.mp3",
+   "seconds": 1.187,
+   "sha256": "48249e223f3fb9758c78274169ca7318375cbfbd47cacbbc6924e3606fd3b5dd"
+  },
+  {
+   "text": "It's a sheep. Baa!",
+   "file": "2f9538c5dd05af6d.mp3",
+   "seconds": 1.848,
+   "sha256": "12a2ebee56e87bf336e24858017ff643ca826ec0d2bdf08dc585ea162fa566d7"
+  },
+  {
+   "text": "Here you are.",
+   "file": "2f99f929c848869b.mp3",
+   "seconds": 1.461,
+   "sha256": "140a07cdd2516c5e1964ebee3ada201acb615c72af3e7c053072ec38a3fc97e5"
+  },
+  {
+   "text": "It's green.",
+   "file": "2fd5d103461022ce.mp3",
+   "seconds": 1.485,
+   "sha256": "533905369643fb4a1cd9d295c530fc525ae48de231a73ed69e6fa419e550d8b1"
+  },
+  {
+   "text": "@sound:08",
+   "file": "3012c5065a1b45b7.mp3",
+   "seconds": 0.485,
+   "sha256": "7b34b33a2dcc0344073f848811fade814ba345688c222b38e39ce5d469e27bd8"
+  },
+  {
+   "text": "kitchen",
+   "file": "3171d89ad00530ff.mp3",
+   "seconds": 0.973,
+   "sha256": "53c3cc8954700194afc527d47938afd38ed1c57d008ac515a12458f39a51080b"
+  },
+  {
+   "text": "rain",
+   "file": "319b44c570a417ff.mp3",
+   "seconds": 0.824,
+   "sha256": "fb5be22c259bc6b56bb32bdf1441c65f67918e05542b869a0cb5bb89f665e7b5"
+  },
+  {
+   "text": "cake",
+   "file": "32cdb61919620005.mp3",
+   "seconds": 0.824,
+   "sha256": "e6b28970e76516cbfaf9cd0a4de1f51b228e2d35f8f929372b2d1397c3288ee7"
+  },
+  {
+   "text": "These are my socks.",
+   "file": "32f88707c61d207b.mp3",
+   "seconds": 1.997,
+   "sha256": "5b630482157bcc00b660a3c2d4232434e47a74a6170d35db994bbaafef0563b7"
+  },
+  {
+   "text": "Milk and juice — yes, please!",
+   "file": "33c5d3594ff611d5.mp3",
+   "seconds": 2.573,
+   "sha256": "aa7a6fb1d2d9cc5e2bc7bd377a95d011680df03ab17c48d7a4b76999409cfc6f"
+  },
+  {
+   "text": "egg",
+   "file": "34707c3f40dfa20c.mp3",
+   "seconds": 0.756,
+   "sha256": "7e6fa781e1df9e5d9da1a2e7acf738d184bbea2ac6f41ce8e771cd0515ad621b"
+  },
+  {
+   "text": "Close your eyes.",
+   "file": "34da5ad91ceebf6a.mp3",
+   "seconds": 1.803,
+   "sha256": "a1974cf14eac4c3ca022d27d1eed104c9b06583e99ad5185bc3ca4b8ec113012"
+  },
+  {
+   "text": "It's a rubber.",
+   "file": "35c153c106deabe9.mp3",
+   "seconds": 1.379,
+   "sha256": "01ff7acbc4b8fee9d3e70193d59c5d7d854ab6afbe71bc596136e48cd16f16c5"
+  },
+  {
+   "text": "I've got a sister.",
+   "file": "35ec3f40982f447e.mp3",
+   "seconds": 1.827,
+   "sha256": "e2466d09b316d5fdbe713da202e430e6ce0b71ed14b0d79cbece58712e0b9eff"
+  },
+  {
+   "text": "T-shirt, trousers — nice and neat!",
+   "file": "367643f7f4497104.mp3",
+   "seconds": 3.0,
+   "sha256": "a63d86ecdd537adba38b9e6cdc9d2043ba359c06c15918ce3e0b94f1af5f4db4"
+  },
+  {
+   "text": "Good night!",
+   "file": "3676fd5b497a6ae3.mp3",
+   "seconds": 1.336,
+   "sha256": "e7e1f44e09aef444988d6f378acb37fa76a7a7b7bafe25f52361179ecd116bb4"
+  },
+  {
+   "text": "Hello, friend! Hello, friend!",
+   "file": "3692897c6a888c77.mp3",
+   "seconds": 2.571,
+   "sha256": "8a15808d946710abc88d2078cf0028f3d5710c9e301c5984d3fb0db7f8b1deef"
+  },
+  {
+   "text": "It's a pear.",
+   "file": "3747f836886e47da.mp3",
+   "seconds": 1.421,
+   "sha256": "773897c59390a32d2ba3ad6115981de4001d31af3d62ba02cadffc26c2317fbf"
+  },
+  {
+   "text": "@sound:18",
+   "file": "37cf4709fc32aec1.mp3",
+   "seconds": 0.628,
+   "sha256": "b74d478595f410a7e1457c0a057e3473fe0da85db702ef9a41d96490ab3d6ab1"
+  },
+  {
+   "text": "Let's clap!",
+   "file": "3835858d26492839.mp3",
+   "seconds": 1.4,
+   "sha256": "b93ba30487063f159cfc4b84e7b29d5b1884c378c0aa04230f1e38fc05f9f2b9"
+  },
+  {
+   "text": "@sound:01",
+   "file": "385b8afae60111c0.mp3",
+   "seconds": 0.67,
+   "sha256": "7587664454a7743c9d6699c95d33a74d435ec84295e588258ed3d00af6520c5d"
+  },
+  {
+   "text": "In my bag — one, two, three,",
+   "file": "396cb559160dcbfb.mp3",
+   "seconds": 2.424,
+   "sha256": "3aa10a8677f9716cada80d5af99438f4c22d89a29576652f4af5d990730c9ef6"
+  },
+  {
+   "text": "I'm happy! How are you?",
+   "file": "3a2bdcaa0a0e5ea2.mp3",
+   "seconds": 2.189,
+   "sha256": "2a6b836137a7b9a047e9ab39e999bc6d964267d1fe85f3e0f3c383f80c2ad4ac"
+  },
+  {
+   "text": "It's red.",
+   "file": "3a3308ba5653e38a.mp3",
+   "seconds": 1.272,
+   "sha256": "2c7b097cd953c99b2a0323d3845c0f395102867efa8e1f69c08b31cac8eca944"
+  },
+  {
+   "text": "apple",
+   "file": "3a7bd3e2360a3d29.mp3",
+   "seconds": 0.865,
+   "sha256": "5845116cacc18b96fb56398937e0c94089a92bac9e494a7893cb74809df76ac7"
+  },
+  {
+   "text": "Clap your hands and sit down!",
+   "file": "3a8ea074a292cb9e.mp3",
+   "seconds": 2.573,
+   "sha256": "677b94a491d9d379a2ba53a259aa6dd2677bfbfcd34e7a88554a859374bf08d8"
+  },
+  {
+   "text": "I like sweets!",
+   "file": "3b127661223b55bb.mp3",
+   "seconds": 1.733,
+   "sha256": "b9018fc8b5c01895b666dc1a8d843eb2b8b653a8a377071ce6b4fc4b4e9b4b16"
+  },
+  {
+   "text": "Rain! Drip, drop!",
+   "file": "3ba041ab39236e45.mp3",
+   "seconds": 1.933,
+   "sha256": "4e1f0c1a1755689dcf17368577610ae39c13708b868df608a82775319db96da9"
+  },
+  {
+   "text": "seven",
+   "file": "3ba8d02b16fd2a01.mp3",
+   "seconds": 0.909,
+   "sha256": "9888fb7b5c20f07f3ca1eb66b1121b222b282fdba4c61fb729412b467d5492c2"
+  },
+  {
+   "text": "It's a door. Open the door!",
+   "file": "3bdca79b3177e740.mp3",
+   "seconds": 2.424,
+   "sha256": "0b6452597bab978edee9c5f1f2b2e1070655ca367cf66f0d352b437d08f48b12"
+  },
+  {
+   "text": "look",
+   "file": "3c01eba119e00d79.mp3",
+   "seconds": 0.784,
+   "sha256": "c82cf037b6727e6a447d5cee31a8981d98e202e5777d25d192097cf9f4ca482b"
+  },
+  {
+   "text": "ear",
+   "file": "3c6a36b640fceaa8.mp3",
+   "seconds": 0.797,
+   "sha256": "9439dbda513288177f08a23655e1ec594c349293a2d8e1b9bb385e5a4b450665"
+  },
+  {
+   "text": "No, thank you.",
+   "file": "3d0e699e9b0abaf2.mp3",
+   "seconds": 1.699,
+   "sha256": "3d416ce0082120c10c6875b6c7a6c6b180840ee8509a0c8fc1ea7b95c6f8822e"
+  },
+  {
+   "text": "Little baby, shh, it's night —",
+   "file": "3d4dae4074143900.mp3",
+   "seconds": 3.107,
+   "sha256": "1721b54d67f4c24156f7f16f2e0173830f1e781706bb8e8c4499704a571f7c3b"
+  },
+  {
+   "text": "chair",
+   "file": "3d7eb3d3dab17ee5.mp3",
+   "seconds": 0.76,
+   "sha256": "99bada929e26746937eab65039d70d247239eac060be0277c302b412a06fd5c5"
+  },
+  {
+   "text": "Hat and scarf and gloves for snow —",
+   "file": "3d8957444d93993f.mp3",
+   "seconds": 2.829,
+   "sha256": "4fdfb518f9f94e677db4e4826c5d72ffb110fa29c55a7d3d02b0cc8bb16c9099"
+  },
+  {
+   "text": "It's a face. Smile!",
+   "file": "3e2acc8e53944c5c.mp3",
+   "seconds": 2.147,
+   "sha256": "a7f6ff46ed6271071eda6ba632cfb124334ad2f3187bfc41d0a196970947672d"
+  },
+  {
+   "text": "Walk, walk, walk — run, run, run!",
+   "file": "3e7134da61189d99.mp3",
+   "seconds": 2.723,
+   "sha256": "1f6a271f470b6cb62a5f7e076eb15e5c485d8cbf2f25ecd3a60d9ae7d570f1b7"
+  },
+  {
+   "text": "It's a monkey.",
+   "file": "3ec807369a66db49.mp3",
+   "seconds": 1.613,
+   "sha256": "65c14a04bbe7e571b94907998ca6f1fef4ac5388d42c6374774ce1d8895c3c46"
+  },
+  {
+   "text": "It's my mum.",
+   "file": "3edbafd208867629.mp3",
+   "seconds": 1.631,
+   "sha256": "d603e5a26d875d1bb7a18a5742444616dc3686cea22861bdabc1fe22d52d59c6"
+  },
+  {
+   "text": "Simon says, sit down!",
+   "file": "3ee8aeb5b5c19dca.mp3",
+   "seconds": 2.312,
+   "sha256": "960103787a445708bd22c546d5eb146c1ed3c6eb7615e921ef3f4d524413a538"
+  },
+  {
+   "text": "sweets",
+   "file": "3f92df367d627e2d.mp3",
+   "seconds": 0.973,
+   "sha256": "7b54b87c72ce2e0180530f13e351035cdead4c843c8712aaeabdddeda4577cf1"
+  },
+  {
+   "text": "two",
+   "file": "3fc4ccfe745870e2.mp3",
+   "seconds": 0.818,
+   "sha256": "8c4d066fea0658d9e3b2f003f5386c1523e503f2d49f749bb0bd8ffaa48caa1e"
+  },
+  {
+   "text": "Good morning, Mum!",
+   "file": "421291051b7a1feb.mp3",
+   "seconds": 1.869,
+   "sha256": "078056dd789c9bb5563cf4da85af1c3d775c5104f1cdc7f43b25bc0858f746fb"
+  },
+  {
+   "text": "girl",
+   "file": "431ba1c6936744f6.mp3",
+   "seconds": 0.828,
+   "sha256": "7c159598dd71a54c98dd1664666fc04abaac2739e81ec7be9fabebec668d507f"
+  },
+  {
+   "text": "It's a book. Open your book!",
+   "file": "433b469ec37d1870.mp3",
+   "seconds": 2.445,
+   "sha256": "302125740e4d19a2f6bcab0e1503457e5a86169bbd29b938c71ff9730926ad3d"
+  },
+  {
+   "text": "Touch your knees!",
+   "file": "437a8bfb0e25f924.mp3",
+   "seconds": 1.694,
+   "sha256": "d93e206394de9602e9b11c740fb3de6e20f19e725209d150e1403b8f975a9965"
+  },
+  {
+   "text": "Simon says, stamp your feet!",
+   "file": "43c0f02e6278b266.mp3",
+   "seconds": 2.573,
+   "sha256": "ff9332d1c55c1ac3b7e204bb9066881d3f4a650d3d075c240a49a50ebe7858f1"
+  },
+  {
+   "text": "stand up",
+   "file": "43f7a37eecd41893.mp3",
+   "seconds": 1.183,
+   "sha256": "959ce19facd6c17b078ae43f98da2f5eb7dc6d30c6540e2f6a74ba2b3aca0a2f"
+  },
+  {
+   "text": "What colour is it? — It's blue.",
+   "file": "440be0a6e87849e3.mp3",
+   "seconds": 2.551,
+   "sha256": "01c8b4f72b3768d932e7b0f57425cec0c89a7ae38c841866a5a3d4af50d3346f"
+  },
+  {
+   "text": "six",
+   "file": "44778d82365e4af6.mp3",
+   "seconds": 0.82,
+   "sha256": "b59f03dec28d12fbd1500b7ba978fb5dae2761f2e93692e5e247efb6122e7a23"
+  },
+  {
+   "text": "doll",
+   "file": "44c3e574dac5455e.mp3",
+   "seconds": 0.826,
+   "sha256": "29cdd9471778d5b60280479f12c64aeeeb12a36b69dd27b6e8d224eceeb055ca"
+  },
+  {
+   "text": "window",
+   "file": "44ff7b02c80d38b2.mp3",
+   "seconds": 0.931,
+   "sha256": "2664eb5171f91693577a6f12cbd5d0a75cafad7b9d75e0b980756cb32b39a43f"
+  },
+  {
+   "text": "I can swim!",
+   "file": "451de3812c5fdb37.mp3",
+   "seconds": 1.583,
+   "sha256": "8bec6f87ab38468ddb43668af34917ac47b28a3dfbd6c312ac93a660386b94a4"
+  },
+  {
+   "text": "Hello! Let's learn English.",
+   "file": "453baf1fed2ba4bf.mp3",
+   "seconds": 2.339,
+   "sha256": "1f21bb840f830f5c8ea74ea9b6e8379a689b1936c0d58c669c0ad430ac77ee5a"
+  },
+  {
+   "text": "@sound:36",
+   "file": "45bb21e8aac40567.mp3",
+   "seconds": 0.383,
+   "sha256": "3e87ab927771a66b75e3bd61a30415f33640a4774fffc9e5f2852c907bd47b78"
+  },
+  {
+   "text": "sad",
+   "file": "45c9a6614fccd4f9.mp3",
+   "seconds": 0.824,
+   "sha256": "3e568f25d6e34b419c2f7dc74b0e39b8a338314b34d0f0352a91d849696e17a7"
+  },
+  {
+   "text": "Can I have the ball, please?",
+   "file": "46e7d7f751d3a8db.mp3",
+   "seconds": 2.424,
+   "sha256": "bfacfedd0de4a18736ac32d0442efd1fae7c92e6ef7165cea6866a9622075c96"
+  },
+  {
+   "text": "shorts",
+   "file": "474a744f02d8b7ff.mp3",
+   "seconds": 0.927,
+   "sha256": "9b5d18369e5794e156cb31dcd7e1afabf0601e567ff2521f84f338b63c3f68a9"
+  },
+  {
+   "text": "It's a pencil.",
+   "file": "479d3bf59039e2cd.mp3",
+   "seconds": 1.635,
+   "sha256": "e1ceb9b00b3474005dd061781278893dabf44a273ae84b907166abf5571bff93"
+  },
+  {
+   "text": "Hands up high in the air!",
+   "file": "47ac0a83b339f5d4.mp3",
+   "seconds": 2.253,
+   "sha256": "580ebeb6fd2f7710446de13c5b6fa6a21d5d8f572ec293f0bd7e275b8e74f8a3"
+  },
+  {
+   "text": "mouse",
+   "file": "47c5c28cae2574cd.mp3",
+   "seconds": 0.867,
+   "sha256": "845caaadddcf30e50a07d5b6145999fbbb768ffaa269b85dc3fc7a1c69d30c4d"
+  },
+  {
+   "text": "happy",
+   "file": "489f719cadf91909.mp3",
+   "seconds": 0.925,
+   "sha256": "db5e214dd341f1e7c0a3fb493e3de00e894d10e9e64a9deb67a6d489a5aa9fa0"
+  },
+  {
+   "text": "Woof, woof — I'm a dog!",
+   "file": "48c77126c30bbd32.mp3",
+   "seconds": 2.275,
+   "sha256": "20dcc61e38b90b1cebc7fb3346c08bd71179899b67f8b6ddff97e126e2e20a1c"
+  },
+  {
+   "text": "Dance!",
+   "file": "4953b64f001e90e1.mp3",
+   "seconds": 0.947,
+   "sha256": "83be9fb27fa8627347ab51c00046092a243d229afa111af72b8478752c276755"
+  },
+  {
+   "text": "Simon says, stand up!",
+   "file": "4b62e32e635f26ec.mp3",
+   "seconds": 2.248,
+   "sha256": "f96426507df4072e0f2418b086d083887397af4032d12a2dff6b3f9d634c259d"
+  },
+  {
+   "text": "@sound:37",
+   "file": "4bfd6938302e0f9e.mp3",
+   "seconds": 0.407,
+   "sha256": "72c0af23ceb1416883ee737c0e76cfcd443e3e6bb3b66df06e8f1009225edc3e"
+  },
+  {
+   "text": "It's orange.",
+   "file": "4c7f8e6ac4a8d7b6.mp3",
+   "seconds": 1.379,
+   "sha256": "a06df1258e2a1497ac9701cb7f9cf74bd2edc77524c9cc193d1b23a081761d7e"
+  },
+  {
+   "text": "@sound:13",
+   "file": "4ce6c2bdfad98f01.mp3",
+   "seconds": 0.733,
+   "sha256": "fae5fa8eb3fd0cbc919f5b6587e8335e89bacc1b1faacd23512c41f4fe6359c5"
+  },
+  {
+   "text": "mouth",
+   "file": "4cf35cf87435b1ba.mp3",
+   "seconds": 0.865,
+   "sha256": "3537a1b9399747464133a07f6f7ca6b2618ab8c941c965d7cb57115327efbf6e"
+  },
+  {
+   "text": "Let's eat!",
+   "file": "4db1e66e957c8a54.mp3",
+   "seconds": 1.352,
+   "sha256": "18bb8c12d8b00dfef7b5a7eb81b5354ade10a57e8ef09b60cc07924f07638e85"
+  },
+  {
+   "text": "hair",
+   "file": "4dc2159bba05da39.mp3",
+   "seconds": 0.795,
+   "sha256": "d359eaa22a711f9eb50cdee71b8f465f3c390e6d557852c99f3552aed0730748"
+  },
+  {
+   "text": "These are my ears.",
+   "file": "4face36fd0367f30.mp3",
+   "seconds": 1.976,
+   "sha256": "614b36b1ada2e4903192969fbf42cfc7b26f7a2927b17dfeb5f6f82e5b801acb"
+  },
+  {
+   "text": "Mum and Dad — hello, hello!",
+   "file": "50454a4eacfb3a7a.mp3",
+   "seconds": 2.403,
+   "sha256": "f78460a1ef78ea98f87e216985406a96a4f38e6d5131817766060c53b79e0d2e"
+  },
+  {
+   "text": "Goodbye, friend! Goodbye to you!",
+   "file": "5196a28d488a8db2.mp3",
+   "seconds": 2.637,
+   "sha256": "6c6f088baea9b1c2752669aa5b4cf08588e7f65de3a4d4cee5c518c3deac52a7"
+  },
+  {
+   "text": "star",
+   "file": "525eca1d5089dbdc.mp3",
+   "seconds": 0.84,
+   "sha256": "fc43ec33d13425f0ffa6e2f3be24083a66178e1ccdece3bec9a515710611afa0"
+  },
+  {
+   "text": "It's a hat. Put on your hat!",
+   "file": "52686014f7f2c11b.mp3",
+   "seconds": 2.36,
+   "sha256": "02cc93962f9646a18cfc2d3885de53e6f725add342a9fd62083cc468920a4b8c"
+  },
+  {
+   "text": "It's a duck. Quack!",
+   "file": "5303d127c344e80d.mp3",
+   "seconds": 1.908,
+   "sha256": "fedbe29c2b69fc69581605ac73e8eeab293013c8de768dbc2b99dbfd2dc1ef29"
+  },
+  {
+   "text": "It's a cake. Happy birthday!",
+   "file": "53872ce14db02061.mp3",
+   "seconds": 2.488,
+   "sha256": "da1e6e17e5aa426edd0204cf21f00d1eaaac10d39a28e5123398af791877064b"
+  },
+  {
+   "text": "goat",
+   "file": "5480f08f35968440.mp3",
+   "seconds": 0.888,
+   "sha256": "9e6a37ee2f0b2b47b4a7257c4d388595be3230319fefa992cca9e46351c3843e"
+  },
+  {
+   "text": "socks",
+   "file": "54f6d9fbe8ee576f.mp3",
+   "seconds": 0.84,
+   "sha256": "bb07976894c009f4df2d2003f56b5f7f1c4678b3185c67b6a4dbd59c452a752e"
+  },
+  {
+   "text": "jacket",
+   "file": "554f4d3dafc80844.mp3",
+   "seconds": 1.033,
+   "sha256": "7adc1c53de19cde4fec96b5b1e52e538a4fd4dcb10706a53706b57ec981aa0dc"
+  },
+  {
+   "text": "Four, five, six — clap, clap, clap!",
+   "file": "5605430ef7d4cf41.mp3",
+   "seconds": 3.083,
+   "sha256": "b06fcbc2175fca4265320ba25ecf6f5535370e18d5ab079d2c8f73ace3f95e93"
+  },
+  {
+   "text": "cloud",
+   "file": "56681010b753e1ab.mp3",
+   "seconds": 0.867,
+   "sha256": "67818a848c18e0231ad5113f67ae33701bbda2ad90c378f6eb49eb36a12b9fbf"
+  },
+  {
+   "text": "@sound:28",
+   "file": "56c6abdfa20a3d54.mp3",
+   "seconds": 0.421,
+   "sha256": "0d7d3a17b84d1894bb2bde87e2aaf07c16421da5238c22f3a8c8e0f85daa49dc"
+  },
+  {
+   "text": "please",
+   "file": "56ccc4dcfc96534b.mp3",
+   "seconds": 0.97,
+   "sha256": "ced8bcbad2a42969c4ffea39f377cdb2d60746d3c91e1f6eaf3dafb7f9439e14"
+  },
+  {
+   "text": "Drip, drop — the rain is here,",
+   "file": "56d8554a5d69fd40.mp3",
+   "seconds": 2.424,
+   "sha256": "3de065cb9b779c9fa230a75380b4ac38e96a8a182f64bd71109aa6ab67738b76"
+  },
+  {
+   "text": "How are you? — I'm fine, thank you.",
+   "file": "5774f849454ea07a.mp3",
+   "seconds": 2.632,
+   "sha256": "bc527f341c8aaf7e77fa6a236378ce66bd0b80b7b66c7602256b57bf8d0123e4"
+  },
+  {
+   "text": "It's an elephant. It's big!",
+   "file": "582a854fb48b5f0b.mp3",
+   "seconds": 2.445,
+   "sha256": "5fdde65e8d6fa1eb457d044e0cbfaee69067e82f3672c720765f4dd7e71ac099"
+  },
+  {
+   "text": "@sound:04",
+   "file": "58840aadaa49d00c.mp3",
+   "seconds": 0.498,
+   "sha256": "4e07bb1a0fd836766ef692c6e352f436b02607d03f2af18710b8685ed2e86d62"
+  },
+  {
+   "text": "It's a house.",
+   "file": "58d8f3d1ee715365.mp3",
+   "seconds": 1.484,
+   "sha256": "c37be02d4403f623cc794ca39636230ea488508c0c10e95dd3c3ade41ec074f5"
+  },
+  {
+   "text": "ruler",
+   "file": "5972814068a183e2.mp3",
+   "seconds": 0.97,
+   "sha256": "28a48c765cc03e735c02bba6f807ac7c967ce9d9c1b8e8034f80b966165b7b99"
+  },
+  {
+   "text": "@sound:30",
+   "file": "597567b3edf26e1f.mp3",
+   "seconds": 0.396,
+   "sha256": "f73c0e6e5950a022ed7894d93c853ed528044fbb8b4e3cca29fe12174bbe1b4d"
+  },
+  {
+   "text": "One ball!",
+   "file": "59ceb8a5962f58a0.mp3",
+   "seconds": 1.336,
+   "sha256": "19b2b88a90facf0b89fc55664d5c14cf43109ae75574288d39f6447684e1fa7d"
+  },
+  {
+   "text": "Simon says, wave your hand!",
+   "file": "5a161e1ba2960010.mp3",
+   "seconds": 2.467,
+   "sha256": "5e5616ca7501d733f04ecd620270e9b99faee08a8fa7dd6288d114ed0d5b17ad"
+  },
+  {
+   "text": "T-shirt",
+   "file": "5a6ae5c8d6d82bd9.mp3",
+   "seconds": 1.08,
+   "sha256": "a2df07d1c27516bb561e1f53b7726f363d629ea72fc9d59f4213f377d4b09e55"
+  },
+  {
+   "text": "It's a tree.",
+   "file": "5a727242e458e077.mp3",
+   "seconds": 1.527,
+   "sha256": "eab9d3c6f4dacc4be83f5a3cfcaac40a79d5ae2c7a7be7504f9ab2fcdf46d799"
+  },
+  {
+   "text": "tummy",
+   "file": "5b2a737d0d881345.mp3",
+   "seconds": 0.82,
+   "sha256": "9f186a3e61d1354bb95cfbb52adca3bdb91929c3ff0bb829a7a9f9b24a0505c8"
+  },
+  {
+   "text": "Look at the moon!",
+   "file": "5b2cbc1d3b9556b4.mp3",
+   "seconds": 1.674,
+   "sha256": "fa9fd23d0d9cf5b964b0dd76e97f5017345516f41f092c7c5f24d1419d83574b"
+  },
+  {
+   "text": "Goodbye!",
+   "file": "5b531f070f59e724.mp3",
+   "seconds": 1.203,
+   "sha256": "fc5cc469d56047a6bab346355baf395095591a0922ec228c3abc1a08ec6cde71"
+  },
+  {
+   "text": "dress",
+   "file": "5b612edb571c479d.mp3",
+   "seconds": 0.841,
+   "sha256": "ad0d7864d258720d780392cd7838e5bb2ea289030bc28eb4b5cce53725e4acea"
+  },
+  {
+   "text": "@sound:16",
+   "file": "5b93721ac1f55dc5.mp3",
+   "seconds": 0.653,
+   "sha256": "fc3707f55d5ce184767c86ddb56021105034b6ff0ce6bf591ae89e43008975a7"
+  },
+  {
+   "text": "My family, hug me tight!",
+   "file": "5bb491c6a4464bc7.mp3",
+   "seconds": 2.36,
+   "sha256": "b6cbcabbad5a88e3794c420ce0bd576a85acbcaae5366703740a32205962494b"
+  },
+  {
+   "text": "@sound:41",
+   "file": "5c4265e5d2184cb6.mp3",
+   "seconds": 0.407,
+   "sha256": "047ef9a91e8d338b2d9a13ec9793664375ac3c48a6776c41c91e6b58acadac6d"
+  },
+  {
+   "text": "sheep",
+   "file": "5c599616ac500daa.mp3",
+   "seconds": 0.82,
+   "sha256": "28218314d63d715898dc4b7c8f12bbe31b9f5c8033edc60bdbab8209c9c90bce"
+  },
+  {
+   "text": "@sound:32",
+   "file": "5cb4d9d277aef389.mp3",
+   "seconds": 0.447,
+   "sha256": "569a5f7298a366a7ea512ebe516d29ed2ec3da81212afcac9ca2723717bedf13"
+  },
+  {
+   "text": "brown",
+   "file": "5eb67f9f8409b9c3.mp3",
+   "seconds": 0.926,
+   "sha256": "cd6352a9083df671b1e4a94e720df24074cdd45e89b00d0d60c0da554f03ec56"
+  },
+  {
+   "text": "Time for bed!",
+   "file": "5ecb258cbbceb110.mp3",
+   "seconds": 1.631,
+   "sha256": "b1799647aae9a4085d9bfa92bc2a577f7b93c97cb80dd4ded354acc43b0b874c"
+  },
+  {
+   "text": "tomato",
+   "file": "5ed728c2fa5d767b.mp3",
+   "seconds": 1.123,
+   "sha256": "5503d21a9c1e26258e562ca83a10a222e532805db4ba9d4b696722396e85aa04"
+  },
+  {
+   "text": "It's a kite. It can fly!",
+   "file": "5eeeede0aed3954c.mp3",
+   "seconds": 2.381,
+   "sha256": "68d25d464f7f3595dd88f26890748c462fb04593a99da7f62e397dfc99606524"
+  },
+  {
+   "text": "How many? Three!",
+   "file": "60cdca16e4952ce6.mp3",
+   "seconds": 1.72,
+   "sha256": "16f6c0e2dca3e0ce53b0f775445d7455ee4ce14bc64310504ad54da79bd48b28"
+  },
+  {
+   "text": "It's a bed. Time for bed!",
+   "file": "60cefe91556bd85e.mp3",
+   "seconds": 2.36,
+   "sha256": "fc14e48f7019b486a84d46404d2c24b527560b37ceca64c9851c8d2ca196707e"
+  },
+  {
+   "text": "It's a doll.",
+   "file": "621aaaf273f9abb4.mp3",
+   "seconds": 1.379,
+   "sha256": "7b20e928579e2cdc890dd783123ce6d6ebce3984f77239824438cab8432092a9"
+  },
+  {
+   "text": "It's a ruler.",
+   "file": "629204b46cd8a310.mp3",
+   "seconds": 1.568,
+   "sha256": "bd8b4809756109d75fbe4fc66f7ea6b6dda3178e406dcb82cc7436d7b2084ef5"
+  },
+  {
+   "text": "One, two, three — go!",
+   "file": "6328aaa07ee8fccc.mp3",
+   "seconds": 2.147,
+   "sha256": "c573f0a6149b52b191a55871d18ef239cca2c43d771461a66bb5a2ffaedfad54"
+  },
+  {
+   "text": "sing",
+   "file": "6342d0648a746457.mp3",
+   "seconds": 0.781,
+   "sha256": "88a6b55169159d7bbf179f3721245b542f2be95d0b870e816536e7a701b454fd"
+  },
+  {
+   "text": "@sound:40",
+   "file": "6409d95e0483fba2.mp3",
+   "seconds": 0.385,
+   "sha256": "774e22ba9213505538abdfcebeb8083008cd528d8edb5f75a2f999d11bfdbb07"
+  },
+  {
+   "text": "Where's the table?",
+   "file": "679bf3f30a55da35.mp3",
+   "seconds": 1.763,
+   "sha256": "b51f4a6876f81a8df150860302d2cb640eb8c62fe672671a532e699d9a8d0dd8"
+  },
+  {
+   "text": "Nine balls!",
+   "file": "67d83848446640cf.mp3",
+   "seconds": 1.613,
+   "sha256": "5af487eda3500dc3770ccd1fa4973222ce7b091a5116978bb28be37400a5bc6e"
+  },
+  {
+   "text": "A book, a pen, a pencil too,",
+   "file": "68168ea30523d32a.mp3",
+   "seconds": 2.488,
+   "sha256": "5c500877aa4bd5c054eca1a2f932045c37ce4248a58436d610b4a997a0457d1f"
+  },
+  {
+   "text": "Put on your hat!",
+   "file": "6848d24002819e17.mp3",
+   "seconds": 1.805,
+   "sha256": "79c76a8481bd40f75e90d31efb8b36c7d48e4a093a9e82765e782539dbd50607"
+  },
+  {
+   "text": "Yes, please.",
+   "file": "687f1f41d5945502.mp3",
+   "seconds": 1.549,
+   "sha256": "b20a08a2334fb6d204af4acca387df2f598442c2b6ee6541e32804b9ac91aef5"
+  },
+  {
+   "text": "Simon says, close your eyes!",
+   "file": "69e7420558541194.mp3",
+   "seconds": 2.573,
+   "sha256": "8524f28ec709936b341fc8af50b317d2b1031af20ce94f67d756c82413b4208d"
+  },
+  {
+   "text": "It's a pen.",
+   "file": "69f294610667cdd5.mp3",
+   "seconds": 1.4,
+   "sha256": "d0d65946866a0d17d15707607241e1b33d56c286fc3560a6a750e9f95c74fd82"
+  },
+  {
+   "text": "Yes, please!",
+   "file": "6a29edeb03bda8ab.mp3",
+   "seconds": 1.549,
+   "sha256": "a30d2e40126bfaf86abe96686639607dfb4c157f1d3d955305a4dceab14d1b9f"
+  },
+  {
+   "text": "jump",
+   "file": "6bdaf554e42029bd.mp3",
+   "seconds": 0.864,
+   "sha256": "c207f05f6772e7cd9d12f7ecd34104c6d82ca70f4c0fe5d60cb67eb8b0611e2b"
+  },
+  {
+   "text": "This is my grandpa.",
+   "file": "6cb6df056b4dc7ec.mp3",
+   "seconds": 2.253,
+   "sha256": "27612acff019ff60222142d4dfe2ec8bf85ed311557fc3c37c6eb6a7d1cf2e39"
+  },
+  {
+   "text": "It's a bath. Splash!",
+   "file": "6d36a20d69772ed8.mp3",
+   "seconds": 1.976,
+   "sha256": "57fb7a0952c130af2fd9f522f8729dd81d3f88a02bd7d03834f70d2ee65fabcd"
+  },
+  {
+   "text": "@sound:26",
+   "file": "6db5ce8eb0037e24.mp3",
+   "seconds": 0.407,
+   "sha256": "dba22852893b3e93dc9c33b3f18bc9cb0e2985e69a7430accac3633f0fae99d1"
+  },
+  {
+   "text": "listen",
+   "file": "6f8860eb5103a16b.mp3",
+   "seconds": 0.927,
+   "sha256": "da42dda311f3c5230e6e55ce7f1b17aa6e99a71ac4b2276e98bb0a2001b23022"
+  },
+  {
+   "text": "It's big!",
+   "file": "6fda03431d99e047.mp3",
+   "seconds": 1.14,
+   "sha256": "4f5afd8891e0b7385c901fb5a3e02c9f1cb99d4e03422d996fb6764c0edb0c03"
+  },
+  {
+   "text": "dad",
+   "file": "6fe8ecbc1deafa51.mp3",
+   "seconds": 0.822,
+   "sha256": "18c94dc0bf6734205daf5aff02e759bffef7dfa8b3ed5f940657b39899388fef"
+  },
+  {
+   "text": "Crayons red and yellow and blue!",
+   "file": "720df0ceebac5c32.mp3",
+   "seconds": 2.785,
+   "sha256": "aaec7788ed28e9944f9eae68b43dcdb4faeb921794d4fce58dd3365c23676871"
+  },
+  {
+   "text": "It's milk. I like milk.",
+   "file": "72417ef2e39878e4.mp3",
+   "seconds": 2.381,
+   "sha256": "0b05eb637accaa39352e8e42bbd3a4bd8df77c0e7100de88461f7af06c4564f9"
+  },
+  {
+   "text": "Seven balls. I'm seven!",
+   "file": "7255b07ecdc1101c.mp3",
+   "seconds": 2.509,
+   "sha256": "090df7495d4f108b115aade4b491fff0f35d58e0f6a12410a54d02e0d5fe9b7d"
+  },
+  {
+   "text": "These are my ears — and here it goes:",
+   "file": "726443894cd742f1.mp3",
+   "seconds": 2.781,
+   "sha256": "f750c29047dcf8d34b8cdd4eaff0a8933d292efe1c48423f90657c3c75caccca"
+  },
+  {
+   "text": "It's an egg.",
+   "file": "7317871d61410651.mp3",
+   "seconds": 1.505,
+   "sha256": "84cb03d2ce9fd04c733f8cc1ec29c4a1fff04ad30c8eb664dbad4cf9765d1c17"
+  },
+  {
+   "text": "Hands up!",
+   "file": "7458769c2fd55e10.mp3",
+   "seconds": 1.336,
+   "sha256": "22da807a5fcad85f8ac5870a7ef1bc6e5842f1b93ad4a33e98df23da780901ab"
+  },
+  {
+   "text": "frog",
+   "file": "74fa5327cc0f4e94.mp3",
+   "seconds": 0.863,
+   "sha256": "7cfcce18eedfb5852cfcea276dbf05814fe28974445dacadead95c18020bbd5f"
+  },
+  {
+   "text": "@sound:35",
+   "file": "75247fe4dc555dd2.mp3",
+   "seconds": 0.384,
+   "sha256": "4fb1dcf552da01a119068cab90106f6d985c1120a58b9bc0b6434f2cb853a1e4"
+  },
+  {
+   "text": "Simon says, jump!",
+   "file": "75d0617b3bfbfc23.mp3",
+   "seconds": 2.083,
+   "sha256": "2a24ba70e7f1ebd6caa0a63caa0fd85371665e57eb1c59ca17af1b6c7599a212"
+  },
+  {
+   "text": "one",
+   "file": "7692c3ad3540bb80.mp3",
+   "seconds": 0.781,
+   "sha256": "61b478a7322dc1c3ff305953834feb76f4362ee2e387ef19deccec4c35337435"
+  },
+  {
+   "text": "Goodbye! See you!",
+   "file": "769aa2654c7799f0.mp3",
+   "seconds": 1.859,
+   "sha256": "1c1daff56b993d7d64d81293140e0d991b754a0404e75d30f1f4294d2a192656"
+  },
+  {
+   "text": "Four, five, six — hands in your lap!",
+   "file": "76e8fd274c54f34a.mp3",
+   "seconds": 2.996,
+   "sha256": "394a989b1676e907aaaeb2d9866d0d9416ff1aecf2147b14b50e3f1a97c93023"
+  },
+  {
+   "text": "sit down",
+   "file": "778443b4b10ec943.mp3",
+   "seconds": 1.208,
+   "sha256": "28672ca794202c7e68eca4f85533b46c6dd27a5ad0a129352446ccbb6fe0c07f"
+  },
+  {
+   "text": "@sound:29",
+   "file": "77a37b971bf90519.mp3",
+   "seconds": 0.407,
+   "sha256": "4f78b80056f93926a7764b7b55d827ad7355a9b6e606ecdd4d7eb9eec735b87d"
+  },
+  {
+   "text": "cat",
+   "file": "77af778b51abd4a3.mp3",
+   "seconds": 0.76,
+   "sha256": "194b5fe90210d0090ab0de86493562362644e0fbbfd20f0f44d8f9c921ed312c"
+  },
+  {
+   "text": "Eggs and pears — in my tum!",
+   "file": "790da90010af5d13.mp3",
+   "seconds": 2.467,
+   "sha256": "2102247d04d875075b175cd3a09e5b7b266c07d3b884253fe6d8f09ae50d4bb0"
+  },
+  {
+   "text": "@sound:02",
+   "file": "79cb32620c4f4d26.mp3",
+   "seconds": 0.485,
+   "sha256": "bb246f91ac9069d910a899a7a5aa53c181b9d73483884b098d9e341906bf9340"
+  },
+  {
+   "text": "bird",
+   "file": "7a5179eecc0fe187.mp3",
+   "seconds": 0.844,
+   "sha256": "5fc65b50aa937ac5077c86c21fae125c31cd8b9e7c3c8a467832f20f94d1b121"
+  },
+  {
+   "text": "walk",
+   "file": "7a6c4fac6c5cd720.mp3",
+   "seconds": 0.862,
+   "sha256": "c7c5e70836e927e9c7e1d6f6c4ff2c743137d2feac3cc74c81f1e75a7fef9cb9"
+  },
+  {
+   "text": "Look, a cloud!",
+   "file": "7b45219b0214375f.mp3",
+   "seconds": 1.714,
+   "sha256": "ba78488bf8ad7492a5f05e51971915cd610f605a911921a3e454489d77cdfa3b"
+  },
+  {
+   "text": "Three balls!",
+   "file": "7d0050063591f4f7.mp3",
+   "seconds": 1.568,
+   "sha256": "81639213ec2c3b811d746526585fdc4bb855cd35b43a4c7dfea29f37f3aa8d3e"
+  },
+  {
+   "text": "It's a sofa.",
+   "file": "7d4086302265e135.mp3",
+   "seconds": 1.592,
+   "sha256": "0a10a7158e126dbb5b46ecbaf39a85fcc847ebff47634293b5969f52d035ba89"
+  },
+  {
+   "text": "Four balls!",
+   "file": "7e8bb6181adbb5f4.mp3",
+   "seconds": 2.101,
+   "sha256": "1a20cced75a9d234f99f23d9367f837bb5f2e712b1a3c0ded249bb9225d6493d"
+  },
+  {
+   "text": "hot",
+   "file": "7f5d1618e7d28cc7.mp3",
+   "seconds": 0.82,
+   "sha256": "fa5d588e2be89820f19d29983bf5408b7ddef7efc2448d533adefd117d77a534"
+  },
+  {
+   "text": "@sound:21",
+   "file": "804beee9e4b2d7b7.mp3",
+   "seconds": 0.407,
+   "sha256": "fd61d0440f998f5030a66062cedb42afcf553b6b3f84085b7e2dcb1f12c637b4"
+  },
+  {
+   "text": "Goodbye! — Bye-bye!",
+   "file": "80cb0e1d13591755.mp3",
+   "seconds": 1.989,
+   "sha256": "48bae4fb7df85971dae44fa01cf0cd136cbc4171819334900a43658ce06a5cb4"
+  },
+  {
+   "text": "chicken",
+   "file": "811eb81b9d11d65a.mp3",
+   "seconds": 0.931,
+   "sha256": "fee29c7a8341c4cf3e286c3e4ec150144db02d8cf919f8f07a933bc0557e6379"
+  },
+  {
+   "text": "Sing!",
+   "file": "81395142d308e902.mp3",
+   "seconds": 0.909,
+   "sha256": "64cef04e5aa91aee3027785b139f19a7f0f9d2bd8c92a26f5fb36c671ad98cf6"
+  },
+  {
+   "text": "small",
+   "file": "81db8ebbbbc69c6c.mp3",
+   "seconds": 0.928,
+   "sha256": "d05997fce3d0275470933dfff0c56be18ea5440e8010e31395e12069a519dfb3"
+  },
+  {
+   "text": "goodbye",
+   "file": "82e35a63ceba37e9.mp3",
+   "seconds": 1.016,
+   "sha256": "aff30df053d079ba697f75f8c280a1b0fc77a5d23716827efe9e77718504185e"
+  },
+  {
+   "text": "@sound:15",
+   "file": "8372b95bf8544566.mp3",
+   "seconds": 0.675,
+   "sha256": "edf390e3775a2e7e8b40c36a0daf3796a4ac0a42fc14771c2646cb57895c249e"
+  },
+  {
+   "text": "thank you",
+   "file": "844347e54f00c4b9.mp3",
+   "seconds": 1.137,
+   "sha256": "547f413997edb20d4fa9ed14de783960e6a4519c2eb5fe799741b41c11bf79ab"
+  },
+  {
+   "text": "Swim, swim, swim in the sea!",
+   "file": "85f7b9ad377479f7.mp3",
+   "seconds": 2.531,
+   "sha256": "97211f324ca749b92e9b6c61886af6e16d932f26338d39217ddd29977dd79f24"
+  },
+  {
+   "text": "It's a carrot. Crunch!",
+   "file": "86576d8362b42c3e.mp3",
+   "seconds": 2.104,
+   "sha256": "a3caf4dc798d0725fc048204990293e2d4a31d40582689d1930f3b61f959cc79"
+  },
+  {
+   "text": "cheese",
+   "file": "873ac9ffea4dd04f.mp3",
+   "seconds": 0.909,
+   "sha256": "2577b633c860a4ce126de832cf383fe899af5b6bb9ec9ca692cdb48700169b62"
+  },
+  {
+   "text": "It's a cat. Meow!",
+   "file": "877e9b3e9cb19a75.mp3",
+   "seconds": 1.933,
+   "sha256": "725e81870f9990866debc92f6a7571f1f691451fdaa0f0bdf844e71b99d32d42"
+  },
+  {
+   "text": "It's a rainbow!",
+   "file": "8791036ac5102c4b.mp3",
+   "seconds": 1.677,
+   "sha256": "a8d91292417927c4561b2b040902ed3e01b0651994484a4e41a59502ceb346e0"
+  },
+  {
+   "text": "milk",
+   "file": "8825e76530f87ff5.mp3",
+   "seconds": 0.866,
+   "sha256": "0b0c5ab5f54208fb5d4b4884a1d4ef0c3f7d40593319c7347a3e57eb9b989125"
+  },
+  {
+   "text": "@sound:05",
+   "file": "8832a79cf9df1778.mp3",
+   "seconds": 0.629,
+   "sha256": "b2b367af59460106e222022408a4109c845baa58b6c361376baa6b1236046a44"
+  },
+  {
+   "text": "It's small.",
+   "file": "885a1c4cd9f7e79b.mp3",
+   "seconds": 1.315,
+   "sha256": "f2e933fadc3e206754de25d766abd337dd14c7972196fd18e0cf83f366377576"
+  },
+  {
+   "text": "Socks and shoes on my feet,",
+   "file": "8957f2ecab304df5.mp3",
+   "seconds": 2.44,
+   "sha256": "1179534d54198f60c57b099f87010941a77eff9e67bf28ae9e61362593f6f5f7"
+  },
+  {
+   "text": "Wave your hand!",
+   "file": "89e9a7b5eae2b777.mp3",
+   "seconds": 1.72,
+   "sha256": "8d53013c47b25ea25fc1b9fc5322d976f20980cba31293f6e3771bb1f118d425"
+  },
+  {
+   "text": "It's blue.",
+   "file": "8a21e457c455dcd0.mp3",
+   "seconds": 1.251,
+   "sha256": "a12927d443c1ba62e36fdff6c16f10c6d390e4033ebeb74ac98012a21c74e3b6"
+  },
+  {
+   "text": "These are my shoes.",
+   "file": "8a4d9dfedb1ffb4e.mp3",
+   "seconds": 1.994,
+   "sha256": "a3e3e245753830d390f350025ee777ed55cde9babcddeb22c12f67d72dc81067"
+  },
+  {
+   "text": "yes",
+   "file": "8a798890fe938171.mp3",
+   "seconds": 0.824,
+   "sha256": "c80d8a54130d8828ba63825fe6d13caaac5b180c194b6a1a29f25ff2713918fd"
+  },
+  {
+   "text": "Listen!",
+   "file": "8aaeb1a59f549336.mp3",
+   "seconds": 1.566,
+   "sha256": "c0ad927b37ca7ea94b94cef76a3f26a89d757a07dce44af0b990d38f8b777246"
+  },
+  {
+   "text": "three",
+   "file": "8b5b9db0c13db242.mp3",
+   "seconds": 0.877,
+   "sha256": "350e717f9593aea91aad38cc28d4af69fc59fcd4181e90fb297b914305de943a"
+  },
+  {
+   "text": "clap",
+   "file": "8cceaf5c89e63591.mp3",
+   "seconds": 0.864,
+   "sha256": "25399a3e7b6b21de78b399c1cb9ce30584c65beeb6c4e6f3ca470e387794edc8"
+  },
+  {
+   "text": "A table, a chair, a sofa too —",
+   "file": "8cf56aea26c7123b.mp3",
+   "seconds": 2.808,
+   "sha256": "1eafb72807c618927d81c9a5e7a28c20e8465d9291ecabf1a4c54068af1e4792"
+  },
+  {
+   "text": "What colour is it?",
+   "file": "8e084345e6e57c12.mp3",
+   "seconds": 1.819,
+   "sha256": "34fff88fc469741684ab1e37d531b26848e9073ffb9d52cc026b8b2bae6e99b2"
+  },
+  {
+   "text": "purple",
+   "file": "8e0a1b0ada421728.mp3",
+   "seconds": 0.947,
+   "sha256": "74eeb84ef16b2304e9abb19d0fc652f12135be20f073d65898792af800909e80"
+  },
+  {
+   "text": "Can I have the ball, please? Here you are.",
+   "file": "8e3c9c979c0e5f7f.mp3",
+   "seconds": 3.149,
+   "sha256": "1cf2bceff339baf2e904eb74fbfd4711a4064108ef8436b97a2637f1bf78d150"
+  },
+  {
+   "text": "kite",
+   "file": "8e8c7d42b456c9e4.mp3",
+   "seconds": 0.828,
+   "sha256": "499775d7f5fee1aebfb1572a5a9b1891b2b1cf329cac2e07b0e198990cc04746"
+  },
+  {
+   "text": "The sun is hot!",
+   "file": "8edc340754db708a.mp3",
+   "seconds": 1.741,
+   "sha256": "8d2020210d4f2fafb4b2f8f1c24a9e84cef7c11c544be414bc45583747608132"
+  },
+  {
+   "text": "rainbow",
+   "file": "8fced00b6ce28145.mp3",
+   "seconds": 0.973,
+   "sha256": "4b663d6a24116f799ed77825723c3faa024756f916f2d44be3649343534c2049"
+  },
+  {
+   "text": "It's a mouse. Squeak!",
+   "file": "903c4e4df8a376af.mp3",
+   "seconds": 2.019,
+   "sha256": "c7dd002bec1d844637007b38c070336f2b1850c91da67de08f14c7f2e572074b"
+  },
+  {
+   "text": "It's an ice cream. Yum!",
+   "file": "90448b36f5bc253f.mp3",
+   "seconds": 2.275,
+   "sha256": "06bd79402adbee7da11692b99f30302ba666ce8b2def219a85f7b9593238bf54"
+  },
+  {
+   "text": "How old are you? — I'm six.",
+   "file": "907cc04e5ff6fb63.mp3",
+   "seconds": 2.317,
+   "sha256": "972ee60e7b7b49dff94c05f671403d93f767037667c02d536e3781e8f71c0ddd"
+  },
+  {
+   "text": "Look!",
+   "file": "91f030dfb3053e4e.mp3",
+   "seconds": 0.867,
+   "sha256": "4643e3b3e081946368a8e862f10f14e94195b8eba71657d20b2c3cccaeaf72a9"
+  },
+  {
+   "text": "book",
+   "file": "92719fe0cf8cd515.mp3",
+   "seconds": 0.739,
+   "sha256": "71f1f819191d093a580d0db97eeea44edf52ae8eb8fa29c2a47e261bd6a061a3"
+  },
+  {
+   "text": "It's a table.",
+   "file": "932ed102a1a2ccb4.mp3",
+   "seconds": 1.589,
+   "sha256": "e28b4c682f0af5f15c3947a105473f450e3f611221fccf915287a2fcfca394c7"
+  },
+  {
+   "text": "I can jump!",
+   "file": "938873ef99c59a01.mp3",
+   "seconds": 1.648,
+   "sha256": "3332707ec9f348cd0b58aaddabe27767b563e510706773c6c6e3ddcecfda78e3"
+  },
+  {
+   "text": "no",
+   "file": "9390298f3fb0c5b1.mp3",
+   "seconds": 0.816,
+   "sha256": "4e8b1bb8a50fdff246a6bf5000d91afed0c2bcb0a85dff1d4db82c5b113aca7f"
+  },
+  {
+   "text": "Here you are. — Thank you!",
+   "file": "93fdc56887de95b3.mp3",
+   "seconds": 2.061,
+   "sha256": "05f52a573ce749daaf97e13be6274ebf402b3be8fb528ce1a10e7beef7c95f6e"
+  },
+  {
+   "text": "Let's draw!",
+   "file": "942ac10ccfc14d4b.mp3",
+   "seconds": 1.485,
+   "sha256": "eb90775ad1a5927458afb6f54e488fd4e17536c27478697b5b9591b3235800d2"
+  },
+  {
+   "text": "I'm happy!",
+   "file": "9517e0c6d0a0ff87.mp3",
+   "seconds": 1.869,
+   "sha256": "5c74698ab99c12eb98c86e8f9f3b792586cdce37d96e12d632c48be22b27a892"
+  },
+  {
+   "text": "It's a balloon.",
+   "file": "9518c89bad67547b.mp3",
+   "seconds": 1.632,
+   "sha256": "3a711526e425a9793e7a13a7a1436a81357de2ad7c131eaff1aae3daa0b45862"
+  },
+  {
+   "text": "It's a window.",
+   "file": "95e3a17f8abbf8d1.mp3",
+   "seconds": 1.59,
+   "sha256": "e6465357781b3434b832045634af7bf4742f34a6af5f4c3f160c44e47f74f012"
+  },
+  {
+   "text": "One, two, three — jump with me!",
+   "file": "967a6503abc3b49a.mp3",
+   "seconds": 2.531,
+   "sha256": "b0d5eaa17d77308c310d64369d32d0d0b8953ad33cf02efc0a4ddb2cb01a53c8"
+  },
+  {
+   "text": "van",
+   "file": "970b1897af0abab6.mp3",
+   "seconds": 0.781,
+   "sha256": "ffeced7107b4041df644d97b0df47afdc2a426efa79833fee4ac21ce6a385885"
+  },
+  {
+   "text": "It's a lion. Roar!",
+   "file": "9787933de26e09b0.mp3",
+   "seconds": 1.997,
+   "sha256": "c9641ea86567fc57a7e316be54038b85faa8fece78e1d5871f107346c77b3ac9"
+  },
+  {
+   "text": "pear",
+   "file": "97cfbe87531abe0c.mp3",
+   "seconds": 0.811,
+   "sha256": "a1910d3b1de17678a6eb6e15df69c3ad7d72f97ef82a3cbab88f06a7cbc800a0"
+  },
+  {
+   "text": "ears",
+   "file": "97e1f3fc7beaed63.mp3",
+   "seconds": 0.888,
+   "sha256": "5da17544241313468bf98db38bb9c931b68b9abd7d6d6aa9711b2777e92770b0"
+  },
+  {
+   "text": "bread",
+   "file": "985604c2b6024312.mp3",
+   "seconds": 0.878,
+   "sha256": "507446f28d6687277b97d93f927933b3b4f16e549a5558363e31252f088b2d80"
+  },
+  {
+   "text": "It's a T-shirt.",
+   "file": "98942f692a84c129.mp3",
+   "seconds": 1.763,
+   "sha256": "7789bd1e375cb4e303cef0e329dc2db6504c6080f0fec19f13908851b8ef4185"
+  },
+  {
+   "text": "Hands down!",
+   "file": "99be929604a3f0e8.mp3",
+   "seconds": 1.627,
+   "sha256": "831f6c00ad95322b9ee1a0abbc781507436e94780a8c381cba5ee3970587b624"
+  },
+  {
+   "text": "Who's this?",
+   "file": "99c0a9e9ce2c7caf.mp3",
+   "seconds": 1.224,
+   "sha256": "d7b5cc593486946c25921b17fbb1932b86f5d8d22e1793fe1d5c9d543545b05a"
+  },
+  {
+   "text": "It's black.",
+   "file": "9a0b6e69e9fbb549.mp3",
+   "seconds": 1.201,
+   "sha256": "dac15d4600c596915e50a17f054d98db3d311ed2406d6674e4d1cb209fa2c979"
+  },
+  {
+   "text": "Stand up, please!",
+   "file": "9b61cc7e000e51c4.mp3",
+   "seconds": 1.869,
+   "sha256": "78f84935e29c81027e296f6a87d087d266b3b3687b174165151ae42d475cd3fa"
+  },
+  {
+   "text": "Close your eyes!",
+   "file": "9cc1c86f2bcb4a2c.mp3",
+   "seconds": 1.823,
+   "sha256": "37ecbda9e5a3a5fafb343100839cfea2cb2df8e07fa81e6ef3687711e976e2d0"
+  },
+  {
+   "text": "It's a school.",
+   "file": "9cea9b5b82f523a5.mp3",
+   "seconds": 1.505,
+   "sha256": "c69529456bfd32cc7229458a06ec8cfdd45491b90e336ae7476039ece6035e28"
+  },
+  {
+   "text": "How old are you?",
+   "file": "9dca3fae63fc48e0.mp3",
+   "seconds": 1.741,
+   "sha256": "890e729c0ea57daecd74fc4a3eb53b37a20b417dcc5da369222494a1dd16bf8d"
+  },
+  {
+   "text": "moon",
+   "file": "9e78b43ea00edcac.mp3",
+   "seconds": 0.862,
+   "sha256": "53d33352cdfe4986c209948b3ad861c71b07a34ad2c507e16ed3d93ac9a99dee"
+  },
+  {
+   "text": "The snow is cold — brrr, brrr, brrr!",
+   "file": "9e9f8afb62f340dc.mp3",
+   "seconds": 4.131,
+   "sha256": "1e928474aa5ff580de1205286c5e6048a7b457d10b7706e13a16ed0ac77aa217"
+  },
+  {
+   "text": "It's brown.",
+   "file": "9ed5de7d012f51f4.mp3",
+   "seconds": 1.443,
+   "sha256": "ad84fc8996d783a7b0486d12db17b29ff696232c9d5ca0bf61f36b930f834673"
+  },
+  {
+   "text": "Let's walk!",
+   "file": "9f1484436f2514e6.mp3",
+   "seconds": 1.421,
+   "sha256": "795379066064bec61f9653beddd02a14de7e28a6db136c27f8386c7bab229216"
+  },
+  {
+   "text": "head",
+   "file": "9f2e6d33a3717ee8.mp3",
+   "seconds": 0.797,
+   "sha256": "e30799f2aae9b89584c3bc1f0f13a1b15d0c3e2e647a507ec951c99201c30a9f"
+  },
+  {
+   "text": "Simon says, hands down!",
+   "file": "9f4f8063fcbd65a5.mp3",
+   "seconds": 2.467,
+   "sha256": "b893fdb9e30c2edf2747ff07202bfc51f2221f5f39e1f247012b89c41dbb596b"
+  },
+  {
+   "text": "Sit down, please!",
+   "file": "9f5bc0a2c2b64b53.mp3",
+   "seconds": 1.933,
+   "sha256": "edeb0f7cbc87aa78e4036cbdec5c49ab56d26994d39e478cf7ac58db91c040e1"
+  },
+  {
+   "text": "Sister, brother — here we go!",
+   "file": "9f65e0bb9929d9b2.mp3",
+   "seconds": 2.465,
+   "sha256": "ecaa13d290e2b5b93e15c180d3e67428be30adae4f7b89b4c9e2f32625c880b3"
+  },
+  {
+   "text": "It's a horse. Neigh!",
+   "file": "9fe216045a40afe9.mp3",
+   "seconds": 1.827,
+   "sha256": "ac341b5a6956a000c763db9704d20fc0f7843aad332c84a1de30a167a54f0e45"
+  },
+  {
+   "text": "television",
+   "file": "a031eda273ac1886.mp3",
+   "seconds": 1.208,
+   "sha256": "26aa69b09b9faa7994053c8151f49f27a5717332291030efe44643f5ee559338"
+  },
+  {
+   "text": "Good morning, Dad!",
+   "file": "a112d747fb3d63ae.mp3",
+   "seconds": 1.912,
+   "sha256": "8a58f7eb9a63e0b14a1961fed522b800a90d8b8cd7cecc9dee7c9d8babcd3458"
+  },
+  {
+   "text": "How many? — Three!",
+   "file": "a1f2eb8cbe6d7820.mp3",
+   "seconds": 1.741,
+   "sha256": "f0194ddac41b1db3576da5c19681691a4aad23c6e3ba170b554f5d8321fccf76"
+  },
+  {
+   "text": "Look! A cat!",
+   "file": "a205ee8537731518.mp3",
+   "seconds": 1.549,
+   "sha256": "c5d424df75e01d7bfd4ae55594129b8ca78f7e76f993ed002e3831db1e855418"
+  },
+  {
+   "text": "Put on your gloves!",
+   "file": "a2481db6169564d5.mp3",
+   "seconds": 1.931,
+   "sha256": "7301aa639ebcc085b3aa362070d0ea3de239edda8a9ac7bf1ea8f8670c2a207e"
+  },
+  {
+   "text": "It's a leg. I've got two legs.",
+   "file": "a2511e8e50bede5a.mp3",
+   "seconds": 2.595,
+   "sha256": "3725292c56c0c0b35dd8140c9f1cbc3ee15ea003296f74d9885629b64f2f9d42"
+  },
+  {
+   "text": "baby",
+   "file": "a3ca38ef0e8554b3.mp3",
+   "seconds": 0.905,
+   "sha256": "44902a9c6029b98cce842299d709226444cb917ec9098613a5b5755888897fc4"
+  },
+  {
+   "text": "It's a ball. Catch!",
+   "file": "a3ce37fd98e3ad79.mp3",
+   "seconds": 1.955,
+   "sha256": "a0c3ec97c42f8728b7891f73ccaecdd1128a4908000a8042b7cf9474c7615190"
+  },
+  {
+   "text": "Cat, dog, cow, lion — wow!",
+   "file": "a519ff5a4c9904bd.mp3",
+   "seconds": 2.531,
+   "sha256": "1842dbefbf8f2edf62a8a3458743759ede915fdacbbc4e9463ced08a20bef783"
+  },
+  {
+   "text": "@sound:12",
+   "file": "a54553c5d9ca3669.mp3",
+   "seconds": 0.485,
+   "sha256": "6023ddbf70361798af9837c585b4d243c76fd8a86deac673d0987ba11ab97275"
+  },
+  {
+   "text": "juice",
+   "file": "a5ad895656074bb1.mp3",
+   "seconds": 0.909,
+   "sha256": "bfb779302ce01f8412bd9c114c7c1746dadd62aecfff7384682faf2cd0fefe67"
+  },
+  {
+   "text": "Simon says, hands up!",
+   "file": "a5b0fb4318692fcd.mp3",
+   "seconds": 2.228,
+   "sha256": "5dd8d5fff61b44dfe983cdfc70d844d5d1f753f49c483f34c92f1c7c15c11825"
+  },
+  {
+   "text": "pink",
+   "file": "a67a41c8bc79d5da.mp3",
+   "seconds": 0.824,
+   "sha256": "2de485afd48eef5824b2765b070f447b38e565aebf80600e7f94ccfe26d47664"
+  },
+  {
+   "text": "Simon says, swim!",
+   "file": "a72411c0c6f2cae6.mp3",
+   "seconds": 1.976,
+   "sha256": "45246daa6f701ecb89de6b441dd8150fbe8e04c786aa153f0cf99434a1076a34"
+  },
+  {
+   "text": "snow",
+   "file": "a746222f09d85605.mp3",
+   "seconds": 0.865,
+   "sha256": "0e4fe61b4ef81b75bb3202f7d8224645f8c453e1df01c4bef9c51796a4c5d7ac"
+  },
+  {
+   "text": "@sound:24",
+   "file": "a7f18b5cb7ac93fa.mp3",
+   "seconds": 0.384,
+   "sha256": "cc32e8a74a6aab623cab2f93d932ec80c7ce32fc4e831c5d04a4b226acc6de7d"
+  },
+  {
+   "text": "It's a cow. Moo!",
+   "file": "a81b39c3c56adae3.mp3",
+   "seconds": 1.784,
+   "sha256": "6d4a8e7ade6fff2b566c006d57f60dad3860f803f04f4119fc30e9b4b92c27b6"
+  },
+  {
+   "text": "How many?",
+   "file": "a84049d63720febe.mp3",
+   "seconds": 1.72,
+   "sha256": "042cd5c0c2281750413ce0781d5ac6a14689de1dcf51581dbe4a63f115f1e199"
+  },
+  {
+   "text": "I like cheese.",
+   "file": "a851efbe7b7dd1d0.mp3",
+   "seconds": 1.754,
+   "sha256": "fc893f76842961b10ddb21cb1a1d937b606b92a2dbdd7cb28f64e03274a84ba0"
+  },
+  {
+   "text": "It's a dog. Woof!",
+   "file": "a8d0f6bf9a7fc636.mp3",
+   "seconds": 1.976,
+   "sha256": "878f71f76b88f8b61aa872c95aa61529da852173060e65b7911e01f29609d2f4"
+  },
+  {
+   "text": "@sound:23",
+   "file": "a94a9cb9c48c9bab.mp3",
+   "seconds": 0.407,
+   "sha256": "c872ea642be007578f6914b89865f362c62f87acb014268432bdb33ae0afbe30"
+  },
+  {
+   "text": "Three!",
+   "file": "a9543978ac532cfe.mp3",
+   "seconds": 0.929,
+   "sha256": "c523844e950dedd0628da400f099e65e5c0e18323b0ebe6876bfad09d4173103"
+  },
+  {
+   "text": "How are you? I'm fine, thank you.",
+   "file": "aa5933bae66f6f93.mp3",
+   "seconds": 2.674,
+   "sha256": "e939f373bf73411be5f7ff559e41cb29f64afaf8339ce7d120147d269e45f7aa"
+  },
+  {
+   "text": "@sound:11",
+   "file": "aac1c547d51b1c0c.mp3",
+   "seconds": 0.655,
+   "sha256": "a08dde78d3ec59710cd1742c074298929d0c526ba9d1d79327be59dd84fac17a"
+  },
+  {
+   "text": "Blue, blue — touch something blue!",
+   "file": "ab4f41802eced177.mp3",
+   "seconds": 2.509,
+   "sha256": "e6c7f4a08165ba11e3c065ff98bc61963b45aef3b408f42bc9f567b19b48cbb3"
+  },
+  {
+   "text": "Ice cream, cake — yum, yum, yum!",
+   "file": "acb1f71fb96eb5fa.mp3",
+   "seconds": 2.808,
+   "sha256": "f6622bf300dface0a92a08ad7c15434b947b4863fd6b82e01d94f9c9f67cdba7"
+  },
+  {
+   "text": "run",
+   "file": "acba25512100f80b.mp3",
+   "seconds": 0.779,
+   "sha256": "85d9d912a3f975a925b92a640842ce73d0ba9266c901c83310be5046f0023a6b"
+  },
+  {
+   "text": "Two balls!",
+   "file": "acde8ab73430bbd7.mp3",
+   "seconds": 1.483,
+   "sha256": "645e8be9108a9170da31ac81b43e0f165ffb8cdbfe05ebb428429403a94e2497"
+  },
+  {
+   "text": "Home, sweet home for me and you!",
+   "file": "acdf59e4f35848d7.mp3",
+   "seconds": 2.531,
+   "sha256": "bea99959fd9d1f849d4866400b0a71622e4378290ad6348898b0dcf06da42b93"
+  },
+  {
+   "text": "Now sit down… and sleep. Shh!",
+   "file": "ae3e447ddc7066c2.mp3",
+   "seconds": 3.292,
+   "sha256": "4f3f23da3f40e6a3c76696d7de710829e9c90b216adb0c6144ddd49010acbc1f"
+  },
+  {
+   "text": "Drink your milk!",
+   "file": "aeca5dd03385b545.mp3",
+   "seconds": 1.796,
+   "sha256": "634f0bcae51404ae46217be44b295b9cc184bd4728327831161f42cdbe6e3c30"
+  },
+  {
+   "text": "I like snow!",
+   "file": "af6c9c169e89091b.mp3",
+   "seconds": 1.754,
+   "sha256": "a049cf53ddda3d9a576d18b9008855b0c328ddd2fdd0006da8d47b78877b8524"
+  },
+  {
+   "text": "Six balls. I'm six!",
+   "file": "af9e17900c6e2e21.mp3",
+   "seconds": 2.36,
+   "sha256": "3ab6db6852a84da7c54cf7455fb55ce2bc9d1ce24eef2fc8f4502d77b1ded9d4"
+  },
+  {
+   "text": "It's a tomato. It's red.",
+   "file": "b0351c618d5f1564.mp3",
+   "seconds": 2.445,
+   "sha256": "05753cc9589a01dbe81241cc78e9ce38442e5923efe447df03c5b4f72a22f8d6"
+  },
+  {
+   "text": "Turn around!",
+   "file": "b16b19990d1eb4ae.mp3",
+   "seconds": 1.649,
+   "sha256": "f6c05017db95ae03d5b59427a1830263a5e475714612ded94dcadf9de9bb6299"
+  },
+  {
+   "text": "Eyes and mouth, face and hair,",
+   "file": "b1c2ebf359a11ae4.mp3",
+   "seconds": 2.552,
+   "sha256": "82a0af221b39b3493098784461d06b54f61e07fd75c65a72de253e2bac857938"
+  },
+  {
+   "text": "It's a scarf. It's cold!",
+   "file": "b1f392cc726e4fe4.mp3",
+   "seconds": 2.296,
+   "sha256": "e6268fcedac557e151604a37fd65bd8f23ba907087d4bb735f8c18e84c670b4a"
+  },
+  {
+   "text": "red",
+   "file": "b1f51a511f1da0cd.mp3",
+   "seconds": 0.8,
+   "sha256": "16d1bb9a532cd64be1b2fd22274e031c10c4f35112dc7aaa0ee233c64f76b6ae"
+  },
+  {
+   "text": "It's a tummy. Touch your tummy!",
+   "file": "b3794492e9b09dc4.mp3",
+   "seconds": 2.531,
+   "sha256": "2aee038f0aefc98b435b31797727843c5bcf54bdb9bc6dcd5076b3876c95d158"
+  },
+  {
+   "text": "It's a notebook.",
+   "file": "b3b4155904c91de6.mp3",
+   "seconds": 1.672,
+   "sha256": "8629f55f25ffb57035f2bc12e60804d4017f03fdad24f2a6a0ab39393ecbb28c"
+  },
+  {
+   "text": "Roar, roar — I'm a lion!",
+   "file": "b40a287cf32f454b.mp3",
+   "seconds": 2.296,
+   "sha256": "ccad7fa3eed3fbf6cf083a66fcc6428ae8f711f0fa4defbe09e853dbd3729e92"
+  },
+  {
+   "text": "Stamp your feet!",
+   "file": "b4336f12c80cee65.mp3",
+   "seconds": 1.827,
+   "sha256": "4387fd9cf7af16307306e490dbe71ae9318773f4bf882cb8b52339cbcf5db0f0"
+  },
+  {
+   "text": "fish",
+   "file": "b474a99a2705e23c.mp3",
+   "seconds": 0.845,
+   "sha256": "67f61aac0792e67a20d31472f9e198160cc2a691ec29a8200c6e8be2de5c7021"
+  },
+  {
+   "text": "banana",
+   "file": "b493d48364afe44d.mp3",
+   "seconds": 1.054,
+   "sha256": "d8bf998c7fecacc7017875e4b3167ee8ca3cc005b8f8e78521c63ec08ed9f54c"
+  },
+  {
+   "text": "Pencil, please!",
+   "file": "b49b86b940bc9934.mp3",
+   "seconds": 1.779,
+   "sha256": "46c42062c948e415e21a406cf27ec1ee4d8efe77158386885f9bc1d43c499409"
+  },
+  {
+   "text": "scarf",
+   "file": "b4a8d31d8a110812.mp3",
+   "seconds": 0.926,
+   "sha256": "4d454a73c94454e12358c5e458992f09c9510266e8315ab66bb77064df8808e4"
+  },
+  {
+   "text": "notebook",
+   "file": "b53bcf919f24746d.mp3",
+   "seconds": 1.097,
+   "sha256": "96354bc647d7e75ae16493588090b6737781a87634711838b30522b4ebf7d5be"
+  },
+  {
+   "text": "@sound:43",
+   "file": "b5b0e367f4a10c9a.mp3",
+   "seconds": 0.397,
+   "sha256": "397a87c5869fe190fbd4de51bb93fb17f5c233fcb34627c1f08c5a9b9e38f73e"
+  },
+  {
+   "text": "A ball, a doll, a car, a train —",
+   "file": "b61d0f088be6a5c3.mp3",
+   "seconds": 2.735,
+   "sha256": "00fbd02c78abb75ce7ff5d8f5d1af2db6b0fbd65698acaae99b33188f4f0e38d"
+  },
+  {
+   "text": "It's a cat.",
+   "file": "b6cd082672116b09.mp3",
+   "seconds": 1.443,
+   "sha256": "ffa78c72733d10345ab69b205738fab8129cacd6db1f5b24a3e0683b2804a468"
+  },
+  {
+   "text": "@sound:17",
+   "file": "b7a91a57ae45e19e.mp3",
+   "seconds": 0.607,
+   "sha256": "9832b1d4f265dd98f9ac8119aa1be8563a77fd53473d9d0799b9feafea33239c"
+  },
+  {
+   "text": "These are my shorts.",
+   "file": "b7e5dd9aea8a96e2.mp3",
+   "seconds": 2.019,
+   "sha256": "dea50088a1e360234099e3904e50401de42ec2a901f42bf2252f657e274de359"
+  },
+  {
+   "text": "pure",
+   "file": "b8ba2ec7e90713c1.mp3",
+   "seconds": 0.82,
+   "sha256": "08f8e85a25ca996f5ab8817a997b0a650e5e09ce511005731a8f062167325960"
+  },
+  {
+   "text": "carrot",
+   "file": "b96482290a873ee9.mp3",
+   "seconds": 0.867,
+   "sha256": "e6ca0e36fe95b09ce3cb12f46dd09cd33faa51d95c01d03fccf88e42f3e16d07"
+  },
+  {
+   "text": "@sound:27",
+   "file": "ba3f7b41828d0076.mp3",
+   "seconds": 0.396,
+   "sha256": "dfbffc1735f547df8a2e97053ad5b2abe094ae64b2ef14e922a3dc1dea32ecf3"
+  },
+  {
+   "text": "green",
+   "file": "ba4788b226aa8dc2.mp3",
+   "seconds": 0.907,
+   "sha256": "e195dcd87a2c951ad1268df2a86fddcd82487dbe96ef0a994c2dd62c72da5558"
+  },
+  {
+   "text": "grandma",
+   "file": "ba8d3e6a2d8b5ed6.mp3",
+   "seconds": 1.118,
+   "sha256": "b134f0b8f8c89aedd97c79f1daafad6dae407e86c2372222d2758459e6129ae2"
+  },
+  {
+   "text": "Simon says, sleep!",
+   "file": "bab4b6f1affb6f93.mp3",
+   "seconds": 2.017,
+   "sha256": "22d36274cc0ea4f6fd4a24e0a33128d751afc7203b1b3e9331e410b41a70254b"
+  },
+  {
+   "text": "She's a teacher.",
+   "file": "bce74de2864bcc3c.mp3",
+   "seconds": 1.699,
+   "sha256": "739722c1dffed6228df97f7f8a23dcd2f503f57fe859f2fa62f3fa14888c4b1e"
+  },
+  {
+   "text": "Simon says, open your mouth!",
+   "file": "bd6080e9f62c9e3f.mp3",
+   "seconds": 2.659,
+   "sha256": "6b802c0345b05b26b9a1578b2871ef768106f665b4e37a3d8885caf428115020"
+  },
+  {
+   "text": "It's purple.",
+   "file": "be2dd864fc53c304.mp3",
+   "seconds": 1.293,
+   "sha256": "9258bc19e1587bc01751c8882ccc912ab2ecd192abdaa31f70a230aeaaa29acc"
+  },
+  {
+   "text": "Clap your hands!",
+   "file": "be8dc5e21e1f9f0e.mp3",
+   "seconds": 1.74,
+   "sha256": "b3a40eef0cbd0e0401c34e9d1007a62ee14ff9a2d43e3a42c28b4bc1a46ae622"
+  },
+  {
+   "text": "cow",
+   "file": "beb134754910a4b4.mp3",
+   "seconds": 0.755,
+   "sha256": "7e95446f4256e982db2f526901b4ff3490333112ea56df4d5472ff810b2d1c60"
+  },
+  {
+   "text": "Stand up!",
+   "file": "bf81d055f47d0497.mp3",
+   "seconds": 1.267,
+   "sha256": "611b90ce08c7cbf6adc732bf75d0e11264496a6111661e1581bf08772835b115"
+  },
+  {
+   "text": "In my room there is a bed,",
+   "file": "bfe38b38629b739f.mp3",
+   "seconds": 2.36,
+   "sha256": "108f02acf0612f3dd81a5f1d66db3367d12c7d43dda29b13dcf2ae8058241425"
+  },
+  {
+   "text": "I've got a brother.",
+   "file": "c00511af7615e6b4.mp3",
+   "seconds": 1.76,
+   "sha256": "f63e2af789fe1be0e81c1209e63a8c899a76c25d9668d031b2ee9a68c35aa974"
+  },
+  {
+   "text": "black",
+   "file": "c006c7e3ab14d686.mp3",
+   "seconds": 0.844,
+   "sha256": "d53b9728bd544367bfeda5f4a71aad5973da6f4cd492e0d50974b5f8ea16416e"
+  },
+  {
+   "text": "bag",
+   "file": "c018019b6a8b01ab.mp3",
+   "seconds": 0.824,
+   "sha256": "054cc12fa132cc5666a4a307b88b1f39b89f7b2bdaf450d712a9e5455310c731"
+  },
+  {
+   "text": "flower",
+   "file": "c06b0cfe0cc5e900.mp3",
+   "seconds": 0.867,
+   "sha256": "5ce6742f279fa163140154540347f4e011b24be3ba096d19b74d1c78503c48a6"
+  },
+  {
+   "text": "What's this? — It's a cat.",
+   "file": "c0f666af2600158c.mp3",
+   "seconds": 2.147,
+   "sha256": "2def74079f7602077ed3a7522017fbc8f0ae3ab224a5dbdc9e283d602c332899"
+  },
+  {
+   "text": "Who's this? It's my mum.",
+   "file": "c16792cc1d948cf8.mp3",
+   "seconds": 2.275,
+   "sha256": "6ebec32d84bec1896b6b987762a19da442c8312fca8832299bdd87ea319766c2"
+  },
+  {
+   "text": "eight",
+   "file": "c195d2d875623436.mp3",
+   "seconds": 0.82,
+   "sha256": "c484c24b78defa22a88130c48e8d88558e34ef9e302838436f6ab872c23bea0b"
+  },
+  {
+   "text": "Clap and dance and sing with me,",
+   "file": "c21f7e06229d7643.mp3",
+   "seconds": 2.595,
+   "sha256": "7531988c90370cb1b61eb8322a44514583047bd42d8bcf5b2d1166d2e70f55e8"
+  },
+  {
+   "text": "This is my dad.",
+   "file": "c226a54deb31c060.mp3",
+   "seconds": 1.879,
+   "sha256": "0017b1cdd6ed07f323612b80ab2e0036934b3db1cdf8a497a5fd2525d03a51c4"
+  },
+  {
+   "text": "Shh! The baby is sleeping.",
+   "file": "c2cf6ebea9f7f622.mp3",
+   "seconds": 2.808,
+   "sha256": "8c028820df9a518c71360c04c543a433ca6c4eafb82ae8c8ae41e12b663f5470"
+  },
+  {
+   "text": "Look, a star!",
+   "file": "c4db3cf66bb111f2.mp3",
+   "seconds": 1.632,
+   "sha256": "ffac60efb3f14089d3108dba66caa1e63661dba6842dab9f24b44c931ee52bda"
+  },
+  {
+   "text": "bed",
+   "file": "c5052532c2206140.mp3",
+   "seconds": 0.806,
+   "sha256": "25dff54a1ff441838ea05821cb1f6e5142beac861b6788f7c744552aa0e9c12f"
+  },
+  {
+   "text": "Where are your shoes?",
+   "file": "c5a26fd5a8d19596.mp3",
+   "seconds": 1.912,
+   "sha256": "130a999ca9ff6024a485508a2f772c72959cf8705e46f4e9ff95b604efb1bca9"
+  },
+  {
+   "text": "It's a head. Touch your head!",
+   "file": "c6034f6f4c29f6fb.mp3",
+   "seconds": 2.317,
+   "sha256": "8a1f0b78b46d244a956f55a022cf21cf2f190f5f742edb4ccd2cacfee12aa49c"
+  },
+  {
+   "text": "It's a car. Beep-beep!",
+   "file": "c668c7332b049a78.mp3",
+   "seconds": 2.156,
+   "sha256": "60835e6b1381ad55fc31be1697c581e8b47ef197e4349ac6018ca369db1a02f6"
+  },
+  {
+   "text": "It's a garden.",
+   "file": "c673355b30999955.mp3",
+   "seconds": 1.59,
+   "sha256": "fc56cac4255bd40100e815c8029260468a580948a7420ef1c3a44b16d32afcf6"
+  },
+  {
+   "text": "yellow",
+   "file": "c685a2c9bab235cc.mp3",
+   "seconds": 0.888,
+   "sha256": "8a8910da8f9fffe87c07f439125db2432b0efdfd3e6955890938096a29b0a484"
+  },
+  {
+   "text": "Red, red — touch something red!",
+   "file": "c6889bbbc27a2817.mp3",
+   "seconds": 2.631,
+   "sha256": "db7484537e17582de0c230d2648365f833e2a2debeb360762b8793b2c9df51c0"
+  },
+  {
+   "text": "Stop!",
+   "file": "c7a3f8faaedb6cec.mp3",
+   "seconds": 0.925,
+   "sha256": "dc3758b088bc6dcba3d8d2ba3f2e0f7ed161eaf7ba8be115e7739260fc4dc3fe"
+  },
+  {
+   "text": "leg",
+   "file": "c7c8fc91abb8ed76.mp3",
+   "seconds": 0.821,
+   "sha256": "c66c0e419ade1bc35009f931cbb5ab1b0f6689dde7b17d9718d253b4bbc38406"
+  },
+  {
+   "text": "Swim!",
+   "file": "c950b68c1c5de585.mp3",
+   "seconds": 0.973,
+   "sha256": "e303aa35f4f03e39948e0d04d3639f377a3106c6e4f727a7ce0d25ae4e4d02ba"
+  },
+  {
+   "text": "Simon says, sing!",
+   "file": "cbcd8804b4c8690d.mp3",
+   "seconds": 1.933,
+   "sha256": "45b23ae6df7ae51bd7a1134d6e228dfc31f1d05c7f1e54ac0c36b2eee29d626a"
+  },
+  {
+   "text": "boy",
+   "file": "cc6a778404ea557d.mp3",
+   "seconds": 0.843,
+   "sha256": "5be8c50d58f748a123d09f5afeb6f12d4df690261ddbf0b43808c3fc018ebda1"
+  },
+  {
+   "text": "I like my toys — I like them all!",
+   "file": "cc8ca62bb2380179.mp3",
+   "seconds": 2.827,
+   "sha256": "381ff00f34065aeee4df3e8443b0ab7ef061a406b7448c59cea6e4e9bc45c598"
+  },
+  {
+   "text": "One, two, three — look at me!",
+   "file": "ccdc564d26594662.mp3",
+   "seconds": 2.338,
+   "sha256": "3f93b5ba6f62d4f31199aeaac001d0dd3d83c666bbba4fcc37b55d899773e1af"
+  },
+  {
+   "text": "elephant",
+   "file": "cd08c4c4316df20d.mp3",
+   "seconds": 1.101,
+   "sha256": "eb825be6ddf665ea9267e12a55bf4e3b0976e5a1f6c40dfeaba2efeb5bb1b26e"
+  },
+  {
+   "text": "dog",
+   "file": "cd6357efdd966de8.mp3",
+   "seconds": 0.824,
+   "sha256": "f29b8730e4edbb03a06f6177f4bafc7cb43b911750eee04190bcc5f4762d0eb4"
+  },
+  {
+   "text": "friend",
+   "file": "cde48537ca2c2808.mp3",
+   "seconds": 0.905,
+   "sha256": "7cc76aef82551af84c33296809d84ae5c2dad43b8aa3634b526cdb3722948a2b"
+  },
+  {
+   "text": "good morning",
+   "file": "cdf71dea7d7741a2.mp3",
+   "seconds": 1.464,
+   "sha256": "13f1ca21033572fc10361e66f7d87b315697dd2b85d48fcfda5148c89499dd46"
+  },
+  {
+   "text": "@sound:38",
+   "file": "cdfb49fe8cd3874f.mp3",
+   "seconds": 0.407,
+   "sha256": "43e68d3f53f21d6fde075aaa0eed6eae02fb6d4e4cdab5df753d9e537e4804b4"
+  },
+  {
+   "text": "Hello!",
+   "file": "ce06092fb948d9ff.mp3",
+   "seconds": 1.075,
+   "sha256": "f32b9c09f2ffb099729f0106f2b5cdfb0b48252ae9216eb13552bc393f09ef59"
+  },
+  {
+   "text": "Let's play!",
+   "file": "ceb9ed999a6db79c.mp3",
+   "seconds": 1.459,
+   "sha256": "de97170993eb807649ccff8145deaf0be524ed49b5d7eb853d4c30ba53b6d292"
+  },
+  {
+   "text": "mother",
+   "file": "cf0622ef2a661cd2.mp3",
+   "seconds": 0.803,
+   "sha256": "32a722293441da42d8ec25d092bb028682dd464c44a986e54c382d93bd4000f1"
+  },
+  {
+   "text": "@sound:14",
+   "file": "cf4fc7e69e9b7d62.mp3",
+   "seconds": 0.632,
+   "sha256": "94c36de5a96273c81c9dd5f3499d9317f2cb170ffb2632582c28f23c490af6af"
+  },
+  {
+   "text": "Again, please!",
+   "file": "d009200b13c2469c.mp3",
+   "seconds": 1.737,
+   "sha256": "b3de99ed797c06676bd67611af7d3d19206c1053dc6ef029272a53f3f0db834d"
+  },
+  {
+   "text": "Can I have an apple, please?",
+   "file": "d14355fb5ef7b905.mp3",
+   "seconds": 2.403,
+   "sha256": "2e95a348f5e7caaadb668d7a57fcb5f01f4cf944dc09dcae43af32f96d4ac547"
+  },
+  {
+   "text": "Wash your hands!",
+   "file": "d225970fcbf7039a.mp3",
+   "seconds": 1.763,
+   "sha256": "5a9324832c6ded46aa969212abcb5302593362d0b3e05f7c090e49eaa6515fc0"
+  },
+  {
+   "text": "@sound:06",
+   "file": "d23b27b321498702.mp3",
+   "seconds": 0.485,
+   "sha256": "2f5286eb1bc7970e86fd77e1efa3963e1208167483423b75bb5b5d6355a24371"
+  },
+  {
+   "text": "It's a clock. Tick-tock!",
+   "file": "d257bf6739a79c84.mp3",
+   "seconds": 2.168,
+   "sha256": "9ed40cb866f5a21caf18af61b9c609c3ac9e04672a2b7ce5aa1a40e0274e4a8b"
+  },
+  {
+   "text": "Look! Rain!",
+   "file": "d2b47514b55b6069.mp3",
+   "seconds": 1.549,
+   "sha256": "7e14e192d9c8a35a5d714acbca80a21e9dacbd416e765415126330b0f62a5cb8"
+  },
+  {
+   "text": "sofa",
+   "file": "d32ce7bf0277fd2c.mp3",
+   "seconds": 0.952,
+   "sha256": "0b8702fcfc725b52c3be3a5458185881db46537294836503de5d5fea9fd867a1"
+  },
+  {
+   "text": "family",
+   "file": "d34a569ab7aaa54d.mp3",
+   "seconds": 0.931,
+   "sha256": "48069f7b5b3737ef8ac19e6a53cf64660041bad3fa68e6fb55bfa2c9a8789c86"
+  },
+  {
+   "text": "rabbit",
+   "file": "d37d96b42ad43384.mp3",
+   "seconds": 0.948,
+   "sha256": "58f20c3184cc1e79a42a25203e980555d1a4494694bd6734e6eb5566822e1b9b"
+  },
+  {
+   "text": "I don't like rain.",
+   "file": "d45d2079237bf796.mp3",
+   "seconds": 1.845,
+   "sha256": "f06dcc4018a32fccec7e06b8d37d51099080d22cd85035ab81dd949aa95c3475"
+  },
+  {
+   "text": "I love you, Mum!",
+   "file": "d46411226e52710b.mp3",
+   "seconds": 1.736,
+   "sha256": "b806a8d8bde1db03343ae4c81bf0861d5d9b0ab4611c8beb1118e3b19d746aa2"
+  },
+  {
+   "text": "swim",
+   "file": "d493f8869139bac7.mp3",
+   "seconds": 0.862,
+   "sha256": "8530e45b9960d877c7ba374ca2fa9ce31a9e30e488769fe1156c107a2fb5b2f3"
+  },
+  {
+   "text": "I like juice!",
+   "file": "d498b0e73d0c3c38.mp3",
+   "seconds": 1.753,
+   "sha256": "bd3844b87117327fe2376cbb4b14f537ba565a5ea8a54e68ed3844b611b5163b"
+  },
+  {
+   "text": "It's a potato.",
+   "file": "d56de3d2008c830f.mp3",
+   "seconds": 1.805,
+   "sha256": "3ae49ad75c534dbdccb479e95f07398405fd8ec72f9186992cb396a8325fdd59"
+  },
+  {
+   "text": "I like apples!",
+   "file": "d5a066c9a86826dd.mp3",
+   "seconds": 1.86,
+   "sha256": "942375cd0e4e93317a0d27dfe5a0d2348e6a2b177868c091889aabcefb132424"
+  },
+  {
+   "text": "school",
+   "file": "d64debd942d7dc26.mp3",
+   "seconds": 0.904,
+   "sha256": "2f7f5e619674584c8c3afb5e27feb5b783cae46afb46c966230f5edaafe0d719"
+  },
+  {
+   "text": "Off to school — come with me!",
+   "file": "d6cbc6aec584732b.mp3",
+   "seconds": 2.424,
+   "sha256": "13ceb64b12f27d796475f0bc15067af2bb74a76c72b46239a2bf39db1c113e52"
+  },
+  {
+   "text": "house",
+   "file": "d6e21286621a8586.mp3",
+   "seconds": 0.883,
+   "sha256": "fffe784f2bbea333c3fb132892230832c006aa05426e37730d5fbc19d4ea0934"
+  },
+  {
+   "text": "nose",
+   "file": "d77e22123e64d3d8.mp3",
+   "seconds": 0.888,
+   "sha256": "f0b37d863fdc48aaf868ad1f3eaeab6e522f513a697476e7ede78106d87f9044"
+  },
+  {
+   "text": "Jump!",
+   "file": "d7a6538bc1efe150.mp3",
+   "seconds": 0.968,
+   "sha256": "5a137ebaa077bda4c94c82396aa863c746a039fa4662732a5eb6b33b594b9b5c"
+  },
+  {
+   "text": "She's a girl.",
+   "file": "d7bce2140976148d.mp3",
+   "seconds": 1.507,
+   "sha256": "643925dafdce3e9d5cc47c084c29ca9864dfac93ca92d524fe7be30f1b6c10ab"
+  },
+  {
+   "text": "clock",
+   "file": "d8198efa3604d164.mp3",
+   "seconds": 0.842,
+   "sha256": "33e45bb47e5dae154a85cc9ba88ac2e9808723be664ca44ca9c6d637b76c8933"
+  },
+  {
+   "text": "crayon",
+   "file": "d8b1858e24ae6176.mp3",
+   "seconds": 0.997,
+   "sha256": "a547d53aebc7513e6a02c3089d2b7bfa357c067ac3ec89f394271174b9df99a4"
+  },
+  {
+   "text": "eyes",
+   "file": "d8fe183f5b8e7324.mp3",
+   "seconds": 0.845,
+   "sha256": "90b05f157918c6daf85dc160dcf62ee7555ddf5364eb53d5adeeb4b83475b961"
+  },
+  {
+   "text": "@sound:09",
+   "file": "d972ba8443d16b2e.mp3",
+   "seconds": 0.653,
+   "sha256": "88162b6050fa4beb07a6a47898acce486ac31244edb4efa193e4e538f9d009ea"
+  },
+  {
+   "text": "It's a robot.",
+   "file": "d982db89eec3ea6a.mp3",
+   "seconds": 1.656,
+   "sha256": "62c3cd6f169786cf552ffd200259e3e29bd80ae6c63aa41bdea3821a8041dcce"
+  },
+  {
+   "text": "It's a room. It's my room!",
+   "file": "d9e7511e643ad825.mp3",
+   "seconds": 2.403,
+   "sha256": "85d1ae9878e7fe73292ccf1b4a23662e534e04d0f431eebf6a4f02ff557961c0"
+  },
+  {
+   "text": "@sound:31",
+   "file": "da3b564f6702e23f.mp3",
+   "seconds": 0.383,
+   "sha256": "5d646130379887f1ae6879db82b44106673fcc6b317914e949b6496deb98dd28"
+  },
+  {
+   "text": "A rainbow in the sky — hooray!",
+   "file": "da7c52696ab98eba.mp3",
+   "seconds": 2.637,
+   "sha256": "dc7aff7284d095d942e01966a08978bc1a470e79f7b9db3a45f816c285c1715b"
+  },
+  {
+   "text": "Hello! — Hello, friend!",
+   "file": "dbb8952cb056c8de.mp3",
+   "seconds": 2.189,
+   "sha256": "344162dcf9be9bb505d4d1d9c927a73ab50caf32fb6c6b39b5953ee400ec386f"
+  },
+  {
+   "text": "In my house there is a room,",
+   "file": "dbdbf320995822b6.mp3",
+   "seconds": 2.38,
+   "sha256": "26c2231eb1ed23b8e96cf3b4603cee8b07d9f2a64eb877f7c96c89683fbdcae6"
+  },
+  {
+   "text": "Where's the ball?",
+   "file": "dc0213e8231ba3a8.mp3",
+   "seconds": 1.696,
+   "sha256": "c24acd24cfbb2a6a44c83769ccab6fed608ce2c1ca446704f39e7923e7e09cd7"
+  },
+  {
+   "text": "tree",
+   "file": "dc9c5edb8b2d479e.mp3",
+   "seconds": 0.783,
+   "sha256": "876a22262b39228647154aa7d9e70d0d673a058b6eccf2d995456dd47afdc4f1"
+  },
+  {
+   "text": "arm",
+   "file": "ddf7ff5ebd9d66ce.mp3",
+   "seconds": 0.776,
+   "sha256": "afe21057a2353dc732f701aef2e8d6e2dcfc11b8300cdeca10919791f38d2cb2"
+  },
+  {
+   "text": "Let's play, let's play, let's play again!",
+   "file": "df08599527f1f356.mp3",
+   "seconds": 3.021,
+   "sha256": "a108ff1e353c46b842629b86fece7a7e9155bcec16eb72cace4588beb758c191"
+  },
+  {
+   "text": "It's a nose. Touch your nose!",
+   "file": "df55196b8ff9747c.mp3",
+   "seconds": 2.445,
+   "sha256": "913a3f915513a7a2d4bfdf398cf3cce78d8ac796c252d7ab80c9c29d8f29d921"
+  },
+  {
+   "text": "I like cats!",
+   "file": "e18521c826d65c47.mp3",
+   "seconds": 1.652,
+   "sha256": "cf302a131ce52b25edcaf19a07fb3fbf15ac5540aadb22c2fabf1d4afd6ca342"
+  },
+  {
+   "text": "Help me, please!",
+   "file": "e19ac98ca1bc2074.mp3",
+   "seconds": 1.653,
+   "sha256": "e01d37589d3fc6d7b0a7f8277dc0bd5010980faca2c03f9071c35f3e7993ab7f"
+  },
+  {
+   "text": "pen",
+   "file": "e21a6b0cb193057e.mp3",
+   "seconds": 0.734,
+   "sha256": "50e0f08086bf258139a1b3a5884c79185f9058e9c41e27df32941e9bb73148f1"
+  },
+  {
+   "text": "cold",
+   "file": "e272deecde720ffc.mp3",
+   "seconds": 0.947,
+   "sha256": "2cdde4d3edb3c70453ec454ed2d90eb6c3e1522963e1822e06d0ca141b1632de"
+  },
+  {
+   "text": "What's this?",
+   "file": "e3b7de3a8db856eb.mp3",
+   "seconds": 1.357,
+   "sha256": "aae17aeba1401178bfea8088511d29ed1db1af1e4661a5c2dbe1b65a537cd2c2"
+  },
+  {
+   "text": "The sun is hot — hot, hot, hot!",
+   "file": "e3bbb3d5ce72340a.mp3",
+   "seconds": 2.637,
+   "sha256": "0eda60a98e8a7ca90cdbdbffdb86443c0905467f6c9f8953a2419743c4acb25f"
+  },
+  {
+   "text": "@sound:22",
+   "file": "e403c0a57d3c2f26.mp3",
+   "seconds": 0.407,
+   "sha256": "83619586aead570919eb1ee34d5186f8a21cff3ae9464d83bb5b1e5416753d39"
+  },
+  {
+   "text": "ten",
+   "file": "e4432baa90819aae.mp3",
+   "seconds": 0.775,
+   "sha256": "0ca77eb8101f0d8d9035bccf188d77085371e598a308719ecc8c6f24686bd61b"
+  },
+  {
+   "text": "I love my grandma.",
+   "file": "e4eb28eeb569c2ea.mp3",
+   "seconds": 2.189,
+   "sha256": "3a5ba1ace65e1355e46e37f02c4ba86228f7604d8c609986233814b7ec3bfb3e"
+  },
+  {
+   "text": "Let's sing!",
+   "file": "e53841bc7355e4f4.mp3",
+   "seconds": 1.379,
+   "sha256": "7edf5113d5b60b8269ba5ce7ca1f826f3d0ab5c8cfa91a2fc297e686af353ef9"
+  },
+  {
+   "text": "eat",
+   "file": "e57bd924047ef39d.mp3",
+   "seconds": 0.777,
+   "sha256": "98711dd60ca0a40bc9b04f01db5d98d67e55693dc08cf594b5fd6728c02c5c1a"
+  },
+  {
+   "text": "These are my eyes.",
+   "file": "e5d45ebb7b2ba6d1.mp3",
+   "seconds": 1.976,
+   "sha256": "0186c3a492f9b18afc4467d7ffbd46bd2c43e4c8b6ebb65986e532f2612be5c3"
+  },
+  {
+   "text": "@sound:19",
+   "file": "e5f4cf7a992a36f9.mp3",
+   "seconds": 0.712,
+   "sha256": "678b386e718b9430b54ab499a75b9c9546f44e48e1ca0eea8a32df685ee43784"
+  },
+  {
+   "text": "It's a chicken. Cluck, cluck!",
+   "file": "e6bc19df810379b9.mp3",
+   "seconds": 2.467,
+   "sha256": "38d1747cf0e3343ede3a34a7d09ca9768104d3fa0ae093090bda4d0787a3bdd6"
+  },
+  {
+   "text": "@sound:33",
+   "file": "e723c7e512fc4e09.mp3",
+   "seconds": 0.451,
+   "sha256": "f12ea8ad027f8673e6997fe8c4a2f43244a5d2ca58bbb0432523e8f92c6c28ca"
+  },
+  {
+   "text": "@sound:20",
+   "file": "e863ddd4605fc4b0.mp3",
+   "seconds": 0.572,
+   "sha256": "32b1d30e8a347ac071e8124fee7d8c7cc260d1076100e4b1e9f9756dfff1f125"
+  },
+  {
+   "text": "It's a dress.",
+   "file": "e8e20f1656d05ff3.mp3",
+   "seconds": 1.484,
+   "sha256": "8a49115369c12b7b7d1dbf8db5d9acdd876b5d0bb01a4ea58276bd31ea8c65c3"
+  },
+  {
+   "text": "potato",
+   "file": "e91c254ad58860a0.mp3",
+   "seconds": 1.201,
+   "sha256": "2258142ad610cead7d84c1e997b3e3d035bb29612171bc2152dd891de70f0b6c"
+  },
+  {
+   "text": "ice cream",
+   "file": "e971c330aab87410.mp3",
+   "seconds": 1.288,
+   "sha256": "faf5c554ec935045c350da3dced3bf0c23aa2f0ed2bc867bd04574043513b909"
+  },
+  {
+   "text": "It's an arm. Wave your arms!",
+   "file": "e9964356e979e6f0.mp3",
+   "seconds": 2.552,
+   "sha256": "af4beae3a6a40dc8f69ad5237cf922a56f60faedf8d182ae51a6bf6549671fcb"
+  },
+  {
+   "text": "ball",
+   "file": "e9de08263f4ad491.mp3",
+   "seconds": 0.819,
+   "sha256": "935fcfdbff9eb95bd200947837ae4d8593ca6368245cd11338e192e21965ed7e"
+  },
+  {
+   "text": "It's bread. Yum!",
+   "file": "eb6bbe99ece1ffc6.mp3",
+   "seconds": 1.802,
+   "sha256": "7690cbf62106f08c8a144eb6380da2c846d2e17785b8c66b29c3613bfd61714a"
+  },
+  {
+   "text": "It's yellow.",
+   "file": "eba5dbfe74a3c171.mp3",
+   "seconds": 1.379,
+   "sha256": "d649f265440b3ff1066cd0bf2e816fd0ac18ef434fb276bedf8623088496f87d"
+  },
+  {
+   "text": "@sound:42",
+   "file": "ec5eb37d81e35c5b.mp3",
+   "seconds": 0.407,
+   "sha256": "9ba7f31dfcf8e7af60e1d033587e94fff6a625617fe5b218b4d9534ab1736f50"
+  },
+  {
+   "text": "Moo, moo — I'm a cow!",
+   "file": "ec90a83950e888f8.mp3",
+   "seconds": 1.997,
+   "sha256": "74cb49ebb6dd5723a1e9bc9ceaa450085a7b43276d5a67b3547ada1a7c2949bf"
+  },
+  {
+   "text": "It's a fish. It can swim.",
+   "file": "ed2f7d7d6b4db3e8.mp3",
+   "seconds": 2.339,
+   "sha256": "4d44ce1ac5de453fe1836ec8fbf3d57c2ab9061c1c3d4fc29d0dba2567a1dcb2"
+  },
+  {
+   "text": "nine",
+   "file": "edcd8e701a2df0cd.mp3",
+   "seconds": 0.824,
+   "sha256": "1b5a8573d58f52e5df8f6b82541939c0b32138b451944ae07c92b1ac373c953e"
+  },
+  {
+   "text": "Stand up! Jump, jump, jump!",
+   "file": "f04fa69c8e06efc0.mp3",
+   "seconds": 2.573,
+   "sha256": "5ff1a7f35a56b8e78683a19b18b6c2bb01849c36d442a1ed5b872fe9989dd078"
+  },
+  {
+   "text": "How are you?",
+   "file": "f0b380c58db9fc81.mp3",
+   "seconds": 1.46,
+   "sha256": "e174cfa5f4bbb2df35f3f2c99b8f2f927d29dd418710de47922841e591abe197"
+  },
+  {
+   "text": "Five balls!",
+   "file": "f129e260c48006db.mp3",
+   "seconds": 1.635,
+   "sha256": "bf3bd47ed14bcad4fd18a67852a254795ccf82030141223ee42643c0c2da31af"
+  },
+  {
+   "text": "@sound:03",
+   "file": "f161eadca9a58633.mp3",
+   "seconds": 0.485,
+   "sha256": "0a68a4ef36018853cb0fd04fa64e0b5e2530e066538ddbe5d8d3631dcbe07778"
+  },
+  {
+   "text": "mum",
+   "file": "f2d758f9e379babc.mp3",
+   "seconds": 0.824,
+   "sha256": "a199def5f4c08c5cf4b2eb0bced1f4706d80c48488d904ce3fb7f825b53527b0"
+  },
+  {
+   "text": "Socks on!",
+   "file": "f32c6b873907b008.mp3",
+   "seconds": 1.397,
+   "sha256": "7c4d6658c5ed78804f244a4dd0c0b7668ba6515a2c0c9424a7cc82b202637071"
+  },
+  {
+   "text": "Black and white, orange and brown —",
+   "file": "f33a74f864d2346b.mp3",
+   "seconds": 2.765,
+   "sha256": "16c8ee1ff9e39e9b28df322ae131d445b2781fc48b3613808ff21a183e99c026"
+  },
+  {
+   "text": "Let's jump!",
+   "file": "f3b19fad53c8c06b.mp3",
+   "seconds": 1.507,
+   "sha256": "dc179ccb616c79de6bc9f02ffe3a087afd6297c579eb8440354ecc38277149f1"
+  },
+  {
+   "text": "@sound:44",
+   "file": "f3d40e5973f0ff09.mp3",
+   "seconds": 0.398,
+   "sha256": "bc2b8c08f290dee643cfe8fcb085c3c2c277b21fb7a12c0fe2640493ec7f3f67"
+  },
+  {
+   "text": "Simon says, touch your ears!",
+   "file": "f48e773b0f54ba12.mp3",
+   "seconds": 2.545,
+   "sha256": "987ce53a163c2cb6ff23ba011692c2fb0df1336dfe9b0c99fcc7f463a50ce1e1"
+  },
+  {
+   "text": "Is it a dog? — No!",
+   "file": "f4e6eab6aaa6e8be.mp3",
+   "seconds": 1.955,
+   "sha256": "02f259fb2f54d19f1892821b81062615011558430f2b032c3deaab522b76bc8b"
+  },
+  {
+   "text": "Simon says, touch your knees!",
+   "file": "f4e96501e93ab80e.mp3",
+   "seconds": 2.545,
+   "sha256": "7d94cca20b71d47361893c1a85729933c4f512cea999100d2690d7227c8bc269"
+  },
+  {
+   "text": "@sound:34",
+   "file": "f5093232053f088b.mp3",
+   "seconds": 0.432,
+   "sha256": "3e72d67841b788d8e363fab42f5ca59f99283a53fc8b29834651885d81d83e0a"
+  },
+  {
+   "text": "teddy bear",
+   "file": "f6bc36134480b22f.mp3",
+   "seconds": 1.376,
+   "sha256": "06070bcd8b1874b8ae39d1ce7b91bdd6fa93514c297bd70f14b75cbed82348ee"
+  },
+  {
+   "text": "Green and yellow — wave hello!",
+   "file": "f6d5a8407721574c.mp3",
+   "seconds": 2.552,
+   "sha256": "aecc70bb529d6ea6c9af1cbe3ac5c3ee48b205ccacb1ba4c0cc06e97dcda17ad"
+  },
+  {
+   "text": "Yes, please! No, thank you!",
+   "file": "f7676f0998f054fc.mp3",
+   "seconds": 2.339,
+   "sha256": "97070d04946cca35eb9d9b3357f4f9efc613c7809227e68683402ad3da5c3fb4"
+  },
+  {
+   "text": "What's this? It's a cat.",
+   "file": "f8d3830554656a38.mp3",
+   "seconds": 2.125,
+   "sha256": "96a6a42263e29d1a40a1c6d8233c3f24a28219b51f77f37ee496169086a4c4ff"
+  },
+  {
+   "text": "What's your name?",
+   "file": "f8f5a98a5482e0be.mp3",
+   "seconds": 1.626,
+   "sha256": "ca1b07703aeec7cdfea7d7c4f801f400cbd621106e998691a8b7743ea69f4ec8"
+  },
+  {
+   "text": "My name's Anna",
+   "file": "f9547018d88edf1f.mp3",
+   "seconds": 1.848,
+   "sha256": "0e58d76105e5162ff39980543bf6d2a1e136d2c552354cc1db4d74c4167e4f64"
+  },
+  {
+   "text": "Green, please!",
+   "file": "fb02f882c3fc038e.mp3",
+   "seconds": 1.76,
+   "sha256": "5ede2efd060ef81147f30b2e491d1deec02ca77ced45ac94f827dfb7126afcba"
+  },
+  {
+   "text": "It's a baby. Shh!",
+   "file": "fbbfd5b0e3b7b8a1.mp3",
+   "seconds": 2.467,
+   "sha256": "78266de91ef62ce0375759753b577790a1c972edc21127c354b4416d14858341"
+  },
+  {
+   "text": "lion",
+   "file": "fc59487712bbe89b.mp3",
+   "seconds": 0.926,
+   "sha256": "cf6c03d987c61be7bc3e4a599d20f0a3167e0c45e8b5bdc26169ffdf4d735a4e"
+  },
+  {
+   "text": "Touch your nose!",
+   "file": "fd2b07ed3a0b9a40.mp3",
+   "seconds": 1.741,
+   "sha256": "f8f9fc8c2e9a15571dec958aa0c4dfa8fd263276afee9e5282754370de7340a9"
+  },
+  {
+   "text": "Sleep!",
+   "file": "fd350b97a4957487.mp3",
+   "seconds": 0.971,
+   "sha256": "e5d1a2c9b1941996f2ce0686ae9bdd728e68d798e4ad5194a03f6a90fe11e7fe"
+  },
+  {
+   "text": "horse",
+   "file": "fd62862b6dc213be.mp3",
+   "seconds": 0.888,
+   "sha256": "9c9cf31f887aab6b7d394423b4ff996f97b591ce0506424ae8ca36faeceda0ec"
+  },
+  {
+   "text": "Simon says, touch your nose!",
+   "file": "fd96fba75f28aafa.mp3",
+   "seconds": 2.552,
+   "sha256": "317797f73fd699c572aad489ee13f75c7890dbd1bcf9e9d88dd0906c91921458"
+  },
+  {
+   "text": "It's a banana.",
+   "file": "ffa075f57c7f5ca2.mp3",
+   "seconds": 1.677,
+   "sha256": "e5d254946d2b74e42202b97be1a6febe391238b388169af851604c84301c9f0c"
+  }
+ ]
+}

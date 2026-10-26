@@ -1,0 +1,525 @@
+{
+  "voice": "Kokoro-82M v1.0, bf_emma, UK English",
+  "synthetic": true,
+  "modelLicense": "Apache-2.0",
+  "modelSource": "https://github.com/thewh1teagle/kokoro-onnx/releases/tag/model-files-v1.0 (kokoro-v1.0.onnx, voices-v1.0.bin)",
+  "modelSha256": "7d5df8ecf7d4b1878015a32686053fd0eebe2bc377234608764cc0ef3636a6c5",
+  "voicesSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+  "release": "2026-10-26",
+  "clips": [
+    {
+      "text": "seed",
+      "kind": "trend",
+      "file": "19b25856e1c150ca.mp3",
+      "bytes": 6572,
+      "seconds": 0.734,
+      "peak": 0.61539,
+      "sha256": "399c393fbd82f6f1c9e9fe012c9025e723c3875adc51b3527c679cd6e33c08b3"
+    },
+    {
+      "text": "plant",
+      "kind": "trend",
+      "file": "96044d9734b60441.mp3",
+      "bytes": 6764,
+      "seconds": 0.759,
+      "peak": 0.62376,
+      "sha256": "078a1b3a6305a760a46f65037166e0f03a6c6070d4f86f76b36e4c4fbc80d1aa"
+    },
+    {
+      "text": "corn",
+      "kind": "trend",
+      "file": "63b0490d4736e740.mp3",
+      "bytes": 6572,
+      "seconds": 0.744,
+      "peak": 0.56802,
+      "sha256": "db62d37110e2ec09703c79ddbd552fee8fd6c8724b4957fa00f9783d95a74c17"
+    },
+    {
+      "text": "cucumber",
+      "kind": "trend",
+      "file": "dd832404e8eeb907.mp3",
+      "bytes": 8108,
+      "seconds": 0.931,
+      "peak": 0.51325,
+      "sha256": "df5bcf23c47484d425f57c17c85cb5bcf2e7ba2ba6c7ce003bb553d073c4dd35"
+    },
+    {
+      "text": "mushroom",
+      "kind": "trend",
+      "file": "5ef2c394d5b63e41.mp3",
+      "bytes": 8492,
+      "seconds": 0.974,
+      "peak": 0.73705,
+      "sha256": "a1f790bbf5d75c3e91a8f70596fc81d6518e5f858a950b809107e2f99bdb56c9"
+    },
+    {
+      "text": "sunflower",
+      "kind": "trend",
+      "file": "8f398886c326b5f8.mp3",
+      "bytes": 8876,
+      "seconds": 1.026,
+      "peak": 0.77213,
+      "sha256": "5bd942249ac4ca59536b3b3b68c96120b526603488a935c2c3a33a4427e1d46e"
+    },
+    {
+      "text": "basket",
+      "kind": "trend",
+      "file": "fa76d99ad957d952.mp3",
+      "bytes": 7724,
+      "seconds": 0.886,
+      "peak": 0.69684,
+      "sha256": "e0587f8bd5824cc9c8f11c8d517e442b603d59eaa5b5c0b576bd730cb6052740"
+    },
+    {
+      "text": "tractor",
+      "kind": "trend",
+      "file": "902760138ab45691.mp3",
+      "bytes": 7724,
+      "seconds": 0.867,
+      "peak": 0.81145,
+      "sha256": "47676335a548d216d4e4c14ea5e79965a47261d7660257b4b2e14ab4b8e6a5aa"
+    },
+    {
+      "text": "watermelon",
+      "kind": "trend",
+      "file": "31a2d5282683edb3.mp3",
+      "bytes": 9068,
+      "seconds": 1.054,
+      "peak": 0.64588,
+      "sha256": "841485a2dca28f8fd9e17e3bfc5189ee8354692b83c8bcf5dfc297c16460678e"
+    },
+    {
+      "text": "broccoli",
+      "kind": "trend",
+      "file": "067d83642a45da49.mp3",
+      "bytes": 7724,
+      "seconds": 0.865,
+      "peak": 0.80346,
+      "sha256": "471e7c580a5677a6cbe6fdb944f5b76b44169439b46ca6416241dbfe06c573c8"
+    },
+    {
+      "text": "eggplant",
+      "kind": "trend",
+      "file": "d9e36ff2055d23ac.mp3",
+      "bytes": 7724,
+      "seconds": 0.887,
+      "peak": 0.70404,
+      "sha256": "417d336ec4828bd8e94adb311879a708739d5766a874df0afa4ef9f59074c8ad"
+    },
+    {
+      "text": "garlic",
+      "kind": "trend",
+      "file": "41024084d2e27b7d.mp3",
+      "bytes": 6764,
+      "seconds": 0.767,
+      "peak": 0.62245,
+      "sha256": "ba91430b49662c6ae719574365c249e65afb4cf01ec771cae5118bd7fa83e6fe"
+    },
+    {
+      "text": "peanuts",
+      "kind": "trend",
+      "file": "487ba2299be7f759.mp3",
+      "bytes": 7532,
+      "seconds": 0.851,
+      "peak": 0.53773,
+      "sha256": "d1fb483e52b011d0d8e33ef510740d906c276f070ef1d72be7bac1da683103eb"
+    },
+    {
+      "text": "pepper",
+      "kind": "trend",
+      "file": "8cbbcf29d9cef896.mp3",
+      "bytes": 6188,
+      "seconds": 0.678,
+      "peak": 0.85488,
+      "sha256": "8dd0bc1a3c1aa84b04637a841a24a8182bc6d363768f10ba7a5e54340b71d9c5"
+    },
+    {
+      "text": "nest",
+      "kind": "trend",
+      "file": "75ef2e329bdb50d2.mp3",
+      "bytes": 6764,
+      "seconds": 0.764,
+      "peak": 0.56227,
+      "sha256": "b9e576438a2a1aa633fc13f09e69708c39ea225a0bc3e344da26e394cbd3d282"
+    },
+    {
+      "text": "chick",
+      "kind": "trend",
+      "file": "fce1e6449b2c4f2a.mp3",
+      "bytes": 5612,
+      "seconds": 0.601,
+      "peak": 0.72213,
+      "sha256": "96c115a9b4e8f41fa1c729d9a9eb3a39ccbcf6979b48992ebda4665d4d615448"
+    },
+    {
+      "text": "puppy",
+      "kind": "trend",
+      "file": "6588ef4db6a357d6.mp3",
+      "bytes": 6572,
+      "seconds": 0.721,
+      "peak": 0.82762,
+      "sha256": "6ff21ed779cb80085d46dee66c832e6098741aeb611d4ab0572c1207ccb220ba"
+    },
+    {
+      "text": "kitten",
+      "kind": "trend",
+      "file": "58972659401cbee9.mp3",
+      "bytes": 7340,
+      "seconds": 0.822,
+      "peak": 0.65213,
+      "sha256": "8188aa0c856e7b449c9f08ac4875c5f8deab80c456b915f7b07fbba1ad85e2dc"
+    },
+    {
+      "text": "bunny",
+      "kind": "trend",
+      "file": "e9c43c5dcf143fdc.mp3",
+      "bytes": 6572,
+      "seconds": 0.737,
+      "peak": 0.64875,
+      "sha256": "3c3725e27e4bbe45e35a7cf972807a9ab929bd087bab11d134862fa79a21b19d"
+    },
+    {
+      "text": "turtle",
+      "kind": "trend",
+      "file": "74dd730b5c36c1cb.mp3",
+      "bytes": 7148,
+      "seconds": 0.803,
+      "peak": 0.64734,
+      "sha256": "0447b0a076d46ae529333b078c37e17ef4157bf0704c5f10184d45df022e6ea9"
+    },
+    {
+      "text": "dragon",
+      "kind": "trend",
+      "file": "a9c43be948c5cabd.mp3",
+      "bytes": 7724,
+      "seconds": 0.864,
+      "peak": 0.63057,
+      "sha256": "df1e6e64ad57b214cfa041e5445ac1a2fc06e312ea4b36b44bc55a24af9fb6e5"
+    },
+    {
+      "text": "penguin",
+      "kind": "trend",
+      "file": "0a4346f806b28b3c.mp3",
+      "bytes": 7532,
+      "seconds": 0.848,
+      "peak": 0.62662,
+      "sha256": "ad8496a05bb2e74e06c9b3a34cb25601c7c37568b212340f60666a1fb22d173d"
+    },
+    {
+      "text": "hamster",
+      "kind": "trend",
+      "file": "12e1d34b00a928b8.mp3",
+      "bytes": 7532,
+      "seconds": 0.862,
+      "peak": 0.63479,
+      "sha256": "b7714a925af21df1b987ba638ff3df61db7b7bc03406542d155d663bd491fe43"
+    },
+    {
+      "text": "parrot",
+      "kind": "trend",
+      "file": "4488b8b86b1ac061.mp3",
+      "bytes": 6956,
+      "seconds": 0.78,
+      "peak": 0.56771,
+      "sha256": "a3c8b156b8022d2b9897b221155a4af8196713b3079c70a790bf1fe427036970"
+    },
+    {
+      "text": "owl",
+      "kind": "trend",
+      "file": "10f7127b980b0b06.mp3",
+      "bytes": 6188,
+      "seconds": 0.675,
+      "peak": 0.50991,
+      "sha256": "ddf6dd24fef423eecc6b9c8867b8ac6dd96264b036d10b24ffcc3501a0242370"
+    },
+    {
+      "text": "brick",
+      "kind": "trend",
+      "file": "c762830741c126f1.mp3",
+      "bytes": 5804,
+      "seconds": 0.642,
+      "peak": 0.65194,
+      "sha256": "7ebd5397f10636d99353e3218dd98b91bafa3847bc5ad927e6231e8dbc76aa99"
+    },
+    {
+      "text": "wood",
+      "kind": "trend",
+      "file": "99f7855eb789dfec.mp3",
+      "bytes": 6188,
+      "seconds": 0.681,
+      "peak": 0.52671,
+      "sha256": "b5a2236a50d4468ebef57c6c8348ea5a8afec8e56d873e6c51fb93b0e0f6c405"
+    },
+    {
+      "text": "stone",
+      "kind": "trend",
+      "file": "dc3d50da8dac041f.mp3",
+      "bytes": 7148,
+      "seconds": 0.803,
+      "peak": 0.68197,
+      "sha256": "b57472435ee45f43541bb0c7f0a69b86b98c95721954a786585c9164e784164a"
+    },
+    {
+      "text": "castle",
+      "kind": "trend",
+      "file": "913a53d7df2fad65.mp3",
+      "bytes": 7340,
+      "seconds": 0.824,
+      "peak": 0.67762,
+      "sha256": "cad571176288e0dbf1fc4162619ed990549d33d42c9e128678642fec5e88534a"
+    },
+    {
+      "text": "tent",
+      "kind": "trend",
+      "file": "2a9810cb71316c9a.mp3",
+      "bytes": 6380,
+      "seconds": 0.717,
+      "peak": 0.65511,
+      "sha256": "c3a0c3817a1b8078199c9847bbdff8bc77d09dbd6fe7b5030d474674f83da786"
+    },
+    {
+      "text": "bridge",
+      "kind": "trend",
+      "file": "17f29b073143d8cd.mp3",
+      "bytes": 6764,
+      "seconds": 0.758,
+      "peak": 0.66233,
+      "sha256": "2af8e45c793bc3d06799d75958a2aab7e9546137bc344ae6331c465dc5b76cbf"
+    },
+    {
+      "text": "ladder",
+      "kind": "trend",
+      "file": "5605a516a7ebf33b.mp3",
+      "bytes": 6764,
+      "seconds": 0.76,
+      "peak": 0.49435,
+      "sha256": "81f0574b85276442a1a9ae02d5e26d470c6e57be20d15a9b798ea446ad4cdb51"
+    },
+    {
+      "text": "hammer",
+      "kind": "trend",
+      "file": "3ef81cb18bdaac2f.mp3",
+      "bytes": 6380,
+      "seconds": 0.718,
+      "peak": 0.58813,
+      "sha256": "8c876df51e21c105af7e4d3f34a5b0fb179f169ca8ccf696e5a36f7bd2fa3b77"
+    },
+    {
+      "text": "key",
+      "kind": "trend",
+      "file": "2c70e12b7a0646f9.mp3",
+      "bytes": 6188,
+      "seconds": 0.675,
+      "peak": 0.65956,
+      "sha256": "8cd7e3835687e4240228be7ed5860fa38b3910ae4f17bd9553bbde141b81b5e3"
+    },
+    {
+      "text": "hut",
+      "kind": "trend",
+      "file": "9d07204fbfa65400.mp3",
+      "bytes": 5996,
+      "seconds": 0.657,
+      "peak": 0.70201,
+      "sha256": "ff3c68e97e567658c12be5497c587a1218fb4e6f72b50b7e0ce9cca086dcca1e"
+    },
+    {
+      "text": "rocket",
+      "kind": "trend",
+      "file": "c58dd0a3760008c9.mp3",
+      "bytes": 7148,
+      "seconds": 0.801,
+      "peak": 0.79909,
+      "sha256": "16996efe55b02d0f3f76b212f581b588de837b577b0de8d30964f63d04faa45f"
+    },
+    {
+      "text": "astronaut",
+      "kind": "trend",
+      "file": "df0c29d39619e8cf.mp3",
+      "bytes": 9260,
+      "seconds": 1.056,
+      "peak": 0.65248,
+      "sha256": "f46db6a1c63f18432deeb107fc08b455331ea7e21f4438abaf630b342d6a184b"
+    },
+    {
+      "text": "Earth",
+      "kind": "trend",
+      "file": "7b74b418a352d671.mp3",
+      "bytes": 6188,
+      "seconds": 0.675,
+      "peak": 0.55035,
+      "sha256": "f962d4077800acc27324938b4edeee7b592043d306e4319c26c6d8c0ec44cb97"
+    },
+    {
+      "text": "planet",
+      "kind": "trend",
+      "file": "cb5815fe5c3c9d7b.mp3",
+      "bytes": 7148,
+      "seconds": 0.802,
+      "peak": 0.59029,
+      "sha256": "5692ab49bef2b1ab350a78bf1016fae0ede9028b7ff67fd22aa0f6d0e3c6165f"
+    },
+    {
+      "text": "comet",
+      "kind": "trend",
+      "file": "d51f791051c2e5f9.mp3",
+      "bytes": 6956,
+      "seconds": 0.78,
+      "peak": 0.66776,
+      "sha256": "fab80dc12d495f6c21fc8bd12f9e89d33eec984fd709f08ed7869a24decc888d"
+    },
+    {
+      "text": "satellite",
+      "kind": "trend",
+      "file": "dc4b4e203f9dddce.mp3",
+      "bytes": 9644,
+      "seconds": 1.114,
+      "peak": 0.78563,
+      "sha256": "6da8d910c67f09a61e3b269f23102aa3a95ce2771d0152444a7ac986187fcd7a"
+    },
+    {
+      "text": "telescope",
+      "kind": "trend",
+      "file": "918d6b6a9b95943b.mp3",
+      "bytes": 8684,
+      "seconds": 0.993,
+      "peak": 0.651,
+      "sha256": "ac4194921b45292029220984aca186612bd3d25d0a9397bbf289de1c26b58440"
+    },
+    {
+      "text": "alien",
+      "kind": "trend",
+      "file": "a49c1d0380688dd9.mp3",
+      "bytes": 7532,
+      "seconds": 0.859,
+      "peak": 0.68146,
+      "sha256": "0c3e3dabbe7562992403a4f7488c22c0fe7c13fb7b61b16a56ff841deea94eab"
+    },
+    {
+      "text": "UFO",
+      "kind": "trend",
+      "file": "21d826dcc5bb8599.mp3",
+      "bytes": 11756,
+      "seconds": 1.376,
+      "peak": 0.87482,
+      "sha256": "a3ae095adf676869dd13c5d1d92d5faffde818dfee6088e3205f40f342b2d543",
+      "speak": "U. F. O."
+    },
+    {
+      "text": "space",
+      "kind": "trend",
+      "file": "3f49dbbfe051cb20.mp3",
+      "bytes": 6956,
+      "seconds": 0.781,
+      "peak": 0.69393,
+      "sha256": "30220324a7943e2941bb57e84fb13bbc837427300072eb43e410904302fe32d6"
+    },
+    {
+      "text": "brave",
+      "kind": "trend",
+      "file": "a1bb216b2bbb7eb3.mp3",
+      "bytes": 6572,
+      "seconds": 0.739,
+      "peak": 0.64741,
+      "sha256": "2f33cd77b391697c3ae01f6b1c7c493d91ec5439bed0be2fa250de88774e00db"
+    },
+    {
+      "text": "scared",
+      "kind": "trend",
+      "file": "67f711e800796d61.mp3",
+      "bytes": 6956,
+      "seconds": 0.783,
+      "peak": 0.65487,
+      "sha256": "f57a96732275fb5f1f95e9d67c6a554c7c8f00c25529ec70b17f4ab81ce6c387"
+    },
+    {
+      "text": "angry",
+      "kind": "trend",
+      "file": "0a96f1960786d85f.mp3",
+      "bytes": 6956,
+      "seconds": 0.78,
+      "peak": 0.64677,
+      "sha256": "b76bd5fcad5a42cda21ae689521d9d9eb565275a89a774fd68f6e49588f585ae"
+    },
+    {
+      "text": "tired",
+      "kind": "trend",
+      "file": "c405760daf9bc32b.mp3",
+      "bytes": 7532,
+      "seconds": 0.853,
+      "peak": 0.52318,
+      "sha256": "b8becea3f11035017a0491f60d0b937205b137c41e8b2f6f04b4157f3ab78f61"
+    },
+    {
+      "text": "strong",
+      "kind": "trend",
+      "file": "eda15ce4834ac303.mp3",
+      "bytes": 6764,
+      "seconds": 0.76,
+      "peak": 0.6895,
+      "sha256": "b11653b9386985193b6dcdc1a33848bd16c6122ac61121e780585979c6a0980b"
+    },
+    {
+      "text": "calm",
+      "kind": "trend",
+      "file": "2b4b2eadf7b2aece.mp3",
+      "bytes": 6380,
+      "seconds": 0.717,
+      "peak": 0.67304,
+      "sha256": "4dffda590e6a428e0c713860fa115e10800496c52be42dc604e364e13a44042c"
+    },
+    {
+      "text": "shield",
+      "kind": "trend",
+      "file": "072a626ed2d6cc7d.mp3",
+      "bytes": 6956,
+      "seconds": 0.777,
+      "peak": 0.54087,
+      "sha256": "de19a9f6442f88d1e1982ab676c650012f901c59b43aa18f911cc47cc70c6c9e"
+    },
+    {
+      "text": "proud",
+      "kind": "trend",
+      "file": "d069c85283b98c2c.mp3",
+      "bytes": 6956,
+      "seconds": 0.78,
+      "peak": 0.63169,
+      "sha256": "c42b0533d84f470512aaceef82a8bdb1b7aa0a62c4e1f9455aa569804e4d71de"
+    },
+    {
+      "text": "cool",
+      "kind": "trend",
+      "file": "c34045c1a1db8d1b.mp3",
+      "bytes": 6764,
+      "seconds": 0.76,
+      "peak": 0.62294,
+      "sha256": "800aa3c751cfbc46f67fc07e3b3302bd76bcec765efc8a5723c7416f6e2d8255"
+    },
+    {
+      "text": "worried",
+      "kind": "trend",
+      "file": "13d9ead0ef6e1b24.mp3",
+      "bytes": 6764,
+      "seconds": 0.756,
+      "peak": 0.5633,
+      "sha256": "f11a1bd785d63310130924692bf02011190373be9a46a5676079318f43cf7e16"
+    },
+    {
+      "text": "amazed",
+      "kind": "trend",
+      "file": "b3f3d949ee908d1d.mp3",
+      "bytes": 8108,
+      "seconds": 0.929,
+      "peak": 0.46776,
+      "sha256": "3629c0dc0ffd55aa93c193b93e96f18f3aa2b8cd09cbe8df0224de86462f186c"
+    },
+    {
+      "text": "sleepy",
+      "kind": "trend",
+      "file": "e74ca13b4c0a61dc.mp3",
+      "bytes": 7532,
+      "seconds": 0.861,
+      "peak": 0.73394,
+      "sha256": "949aeca59869824351c0c9eb2320ec2c28be03743c783ad3a69299bc31931b36"
+    }
+  ]
+}

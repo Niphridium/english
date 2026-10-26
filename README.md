@@ -12,6 +12,7 @@ Choose the learner's grade in their profile. The unified release includes vocabu
 - Daily lessons play as a short vertical clip feed («Погнали!»): one card per clip, a mini-boss of already-seen words, a chest with a sticker that is shown before opening, and a clear end («На сегодня всё»). The next clip opens only on the learner's swipe; there are no streaks, timers for young learners or random rewards. Spaced review is unchanged.
 - Every grade band has its own world (garden, letter town, island map, space, neon, feed look, «ЕНТ Pro») and mascot; parents can switch worlds off.
 - «Тренды»: short themed extra-practice packs by age, each with an expiry date; meme and slang packs only from grade 5. Packs keep their own progress and never change the review schedule.
+- First run is a short step-by-step onboarding (name, grade, pet). The Garden of grades 1-4 is an illustrated scene with a bed per theme. Long grade 5-11 days split into two parts with a break screen. Grade 1-2 trend packs use recorded audio. Slow speech uses separate slow recordings instead of stretching the audio.
 - Progress, writing drafts and unfinished exam sessions are stored on this device. Progress can be exported/imported as a file; there is no account synchronisation.
 
 The first grade uses ready synthetic British audio (Kokoro bf_emma); its MP3 files need to be downloaded. Other grades use an English voice provided by the device. Audio origins and hashes: `audio/g1/README.txt` and `audio/g1/manifest.json`.
